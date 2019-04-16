@@ -48,6 +48,6 @@ Each row in the csv represents one shot, and includes:
 
 ### What if I want to make a shot chart visualization
 
-Perfect. A shot's `x location` can range from 250 to -250, while its `y location` can range from -50 to 890, with the player's basket resting at 0, 0. The `x` and `y` values correspond to feet on the court. For example, an `x location` of 50 is 5 feet to the right side of the basket. A `y location` of 184 is 18.4 feet down the court from the basket. Negative `y locations` are in the are between the basket and the baseline. 
+Perfect. A shot's `x location` can range from 250 to -250, while its `y location` can range from -50 to 890, with the player's basket resting at 0, 0. The `x` and `y` values correspond to feet on the court. For example, an `x location` of 50 is 5 feet to the right side of the basket. A `y location` of 184 is 18.4 feet down the court from the basket. Negative `y locations` are in the area between the basket and the baseline. 
 
 You can use these `x and y locations` to plot shots in D3, QGIS, or even mapping software like Mapbox.
