@@ -1,0 +1,1112 @@
+ID,SEASON,SEASON TYPE,GAME ID,DATE,TEAMS,QUARTER,MINUTES REMAINING,SECONDS REMAINING,RESULT,SHOT TYPE,SHOT VALUE,SHOT AREA,SHOT RANGE,SHOT DISTANCE,SHOT X LOCATION,SHOT Y LOCATION,OPPONENT,HOME TEAM,AWAY TEAM
+0,2011-12,Regular Season,0021100002,"DEC 25, 2011",DAL vs. MIA,1,10,7,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,16-24 ft.,16,130,102,MIA,DAL,MIA
+1,2011-12,Regular Season,0021100002,"DEC 25, 2011",DAL vs. MIA,1,8,51,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,127,23,MIA,DAL,MIA
+2,2011-12,Regular Season,0021100002,"DEC 25, 2011",DAL vs. MIA,1,6,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-158,0,MIA,DAL,MIA
+3,2011-12,Regular Season,0021100002,"DEC 25, 2011",DAL vs. MIA,1,3,46,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-134,12,MIA,DAL,MIA
+4,2011-12,Regular Season,0021100002,"DEC 25, 2011",DAL vs. MIA,2,5,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,7,67,34,MIA,DAL,MIA
+5,2011-12,Regular Season,0021100002,"DEC 25, 2011",DAL vs. MIA,2,3,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,132,72,MIA,DAL,MIA
+6,2011-12,Regular Season,0021100002,"DEC 25, 2011",DAL vs. MIA,2,2,56,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,5,50,26,MIA,DAL,MIA
+7,2011-12,Regular Season,0021100002,"DEC 25, 2011",DAL vs. MIA,2,2,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-182,4,MIA,DAL,MIA
+8,2011-12,Regular Season,0021100002,"DEC 25, 2011",DAL vs. MIA,2,1,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,14,73,129,MIA,DAL,MIA
+9,2011-12,Regular Season,0021100002,"DEC 25, 2011",DAL vs. MIA,3,11,21,Made Shot,Driving Bank shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,3,-37,12,MIA,DAL,MIA
+10,2011-12,Regular Season,0021100002,"DEC 25, 2011",DAL vs. MIA,3,10,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,173,108,MIA,DAL,MIA
+11,2011-12,Regular Season,0021100002,"DEC 25, 2011",DAL vs. MIA,3,8,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,-7,0,MIA,DAL,MIA
+12,2011-12,Regular Season,0021100002,"DEC 25, 2011",DAL vs. MIA,3,7,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,171,6,MIA,DAL,MIA
+13,2011-12,Regular Season,0021100002,"DEC 25, 2011",DAL vs. MIA,3,3,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,5,53,9,MIA,DAL,MIA
+14,2011-12,Regular Season,0021100002,"DEC 25, 2011",DAL vs. MIA,3,2,52,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,-122,25,MIA,DAL,MIA
+15,2011-12,Regular Season,0021100012,"DEC 26, 2011",DAL vs. DEN,1,9,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-158,56,DEN,DAL,DEN
+16,2011-12,Regular Season,0021100012,"DEC 26, 2011",DAL vs. DEN,1,6,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,111,50,DEN,DAL,DEN
+17,2011-12,Regular Season,0021100012,"DEC 26, 2011",DAL vs. DEN,2,10,41,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-108,75,DEN,DAL,DEN
+18,2011-12,Regular Season,0021100012,"DEC 26, 2011",DAL vs. DEN,2,8,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,16-24 ft.,17,86,148,DEN,DAL,DEN
+19,2011-12,Regular Season,0021100012,"DEC 26, 2011",DAL vs. DEN,2,8,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,103,173,DEN,DAL,DEN
+20,2011-12,Regular Season,0021100012,"DEC 26, 2011",DAL vs. DEN,2,3,18,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,9,91,30,DEN,DAL,DEN
+21,2011-12,Regular Season,0021100012,"DEC 26, 2011",DAL vs. DEN,2,2,9,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,7,-51,53,DEN,DAL,DEN
+22,2011-12,Regular Season,0021100012,"DEC 26, 2011",DAL vs. DEN,3,11,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,159,186,DEN,DAL,DEN
+23,2011-12,Regular Season,0021100012,"DEC 26, 2011",DAL vs. DEN,3,11,5,Missed Shot,Fadeaway Bank shot,2PT Field Goal,Mid-Range,8-16 ft.,11,106,31,DEN,DAL,DEN
+24,2011-12,Regular Season,0021100012,"DEC 26, 2011",DAL vs. DEN,3,7,59,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-120,63,DEN,DAL,DEN
+25,2011-12,Regular Season,0021100012,"DEC 26, 2011",DAL vs. DEN,3,6,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,0,-8,DEN,DAL,DEN
+26,2011-12,Regular Season,0021100012,"DEC 26, 2011",DAL vs. DEN,3,5,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,12,23,119,DEN,DAL,DEN
+27,2011-12,Regular Season,0021100012,"DEC 26, 2011",DAL vs. DEN,3,4,19,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,7,11,DEN,DAL,DEN
+28,2011-12,Regular Season,0021100012,"DEC 26, 2011",DAL vs. DEN,3,2,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-84,228,DEN,DAL,DEN
+29,2011-12,Regular Season,0021100035,"DEC 29, 2011",DAL @ OKC,1,7,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,10,73,74,OKC,OKC,DAL
+30,2011-12,Regular Season,0021100035,"DEC 29, 2011",DAL @ OKC,1,5,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,155,53,OKC,OKC,DAL
+31,2011-12,Regular Season,0021100035,"DEC 29, 2011",DAL @ OKC,1,4,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-168,12,OKC,OKC,DAL
+32,2011-12,Regular Season,0021100035,"DEC 29, 2011",DAL @ OKC,2,7,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,136,36,OKC,OKC,DAL
+33,2011-12,Regular Season,0021100035,"DEC 29, 2011",DAL @ OKC,2,4,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,170,178,OKC,OKC,DAL
+34,2011-12,Regular Season,0021100035,"DEC 29, 2011",DAL @ OKC,2,0,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,-7,4,OKC,OKC,DAL
+35,2011-12,Regular Season,0021100035,"DEC 29, 2011",DAL @ OKC,3,11,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-136,42,OKC,OKC,DAL
+36,2011-12,Regular Season,0021100035,"DEC 29, 2011",DAL @ OKC,3,11,33,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,7,18,69,OKC,OKC,DAL
+37,2011-12,Regular Season,0021100035,"DEC 29, 2011",DAL @ OKC,3,7,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,132,203,OKC,OKC,DAL
+38,2011-12,Regular Season,0021100035,"DEC 29, 2011",DAL @ OKC,3,0,51,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,10,92,55,OKC,OKC,DAL
+39,2011-12,Regular Season,0021100035,"DEC 29, 2011",DAL @ OKC,4,9,34,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,7,7,OKC,OKC,DAL
+40,2011-12,Regular Season,0021100035,"DEC 29, 2011",DAL @ OKC,4,8,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,113,110,OKC,OKC,DAL
+41,2011-12,Regular Season,0021100035,"DEC 29, 2011",DAL @ OKC,4,7,15,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,-122,20,OKC,OKC,DAL
+42,2011-12,Regular Season,0021100035,"DEC 29, 2011",DAL @ OKC,4,6,18,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-59,184,OKC,OKC,DAL
+43,2011-12,Regular Season,0021100035,"DEC 29, 2011",DAL @ OKC,4,4,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-51,238,OKC,OKC,DAL
+44,2011-12,Regular Season,0021100035,"DEC 29, 2011",DAL @ OKC,4,3,34,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,0,149,OKC,OKC,DAL
+45,2011-12,Regular Season,0021100035,"DEC 29, 2011",DAL @ OKC,4,1,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,187,156,OKC,OKC,DAL
+46,2011-12,Regular Season,0021100047,"DEC 30, 2011",DAL vs. TOR,1,10,44,Missed Shot,Pullup Bank shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,24,3,TOR,DAL,TOR
+47,2011-12,Regular Season,0021100047,"DEC 30, 2011",DAL vs. TOR,1,8,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-174,97,TOR,DAL,TOR
+48,2011-12,Regular Season,0021100047,"DEC 30, 2011",DAL vs. TOR,1,7,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-134,52,TOR,DAL,TOR
+49,2011-12,Regular Season,0021100047,"DEC 30, 2011",DAL vs. TOR,1,7,46,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,8,-76,48,TOR,DAL,TOR
+50,2011-12,Regular Season,0021100047,"DEC 30, 2011",DAL vs. TOR,1,5,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-112,220,TOR,DAL,TOR
+51,2011-12,Regular Season,0021100047,"DEC 30, 2011",DAL vs. TOR,1,4,44,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,23,15,TOR,DAL,TOR
+52,2011-12,Regular Season,0021100047,"DEC 30, 2011",DAL vs. TOR,2,3,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-187,66,TOR,DAL,TOR
+53,2011-12,Regular Season,0021100047,"DEC 30, 2011",DAL vs. TOR,2,1,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-153,67,TOR,DAL,TOR
+54,2011-12,Regular Season,0021100047,"DEC 30, 2011",DAL vs. TOR,2,0,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,116,44,TOR,DAL,TOR
+55,2011-12,Regular Season,0021100047,"DEC 30, 2011",DAL vs. TOR,3,10,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,21,181,TOR,DAL,TOR
+56,2011-12,Regular Season,0021100047,"DEC 30, 2011",DAL vs. TOR,3,9,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-150,12,TOR,DAL,TOR
+57,2011-12,Regular Season,0021100047,"DEC 30, 2011",DAL vs. TOR,3,7,17,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,21,-2,TOR,DAL,TOR
+58,2011-12,Regular Season,0021100047,"DEC 30, 2011",DAL vs. TOR,3,6,6,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,125,34,TOR,DAL,TOR
+59,2011-12,Regular Season,0021100047,"DEC 30, 2011",DAL vs. TOR,4,9,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-168,45,TOR,DAL,TOR
+60,2011-12,Regular Season,0021100047,"DEC 30, 2011",DAL vs. TOR,4,5,34,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,149,23,TOR,DAL,TOR
+61,2011-12,Regular Season,0021100047,"DEC 30, 2011",DAL vs. TOR,4,4,6,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,15,140,61,TOR,DAL,TOR
+62,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,1,11,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,179,78,MIN,MIN,DAL
+63,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,1,6,59,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,12,108,72,MIN,MIN,DAL
+64,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,2,8,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,6,14,MIN,MIN,DAL
+65,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,2,6,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,13,-51,129,MIN,MIN,DAL
+66,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,2,4,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,140,22,MIN,MIN,DAL
+67,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,2,3,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,4,39,9,MIN,MIN,DAL
+68,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,2,1,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,140,15,MIN,MIN,DAL
+69,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,2,0,33,Missed Shot,Fadeaway Bank shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-98,129,MIN,MIN,DAL
+70,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,2,0,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-138,198,MIN,MIN,DAL
+71,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,3,11,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,162,41,MIN,MIN,DAL
+72,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,3,10,9,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,118,85,MIN,MIN,DAL
+73,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,3,8,13,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,11,91,72,MIN,MIN,DAL
+74,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,3,7,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-79,236,MIN,MIN,DAL
+75,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,3,6,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,132,119,MIN,MIN,DAL
+76,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,3,5,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,13,-8,MIN,MIN,DAL
+77,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,4,8,44,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-123,60,MIN,MIN,DAL
+78,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,4,6,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,168,39,MIN,MIN,DAL
+79,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,4,6,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-120,225,MIN,MIN,DAL
+80,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,4,5,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,147,25,MIN,MIN,DAL
+81,2011-12,Regular Season,0021100061,"JAN 01, 2012",DAL @ MIN,4,3,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,14,-34,138,MIN,MIN,DAL
+82,2011-12,Regular Season,0021100073,"JAN 02, 2012",DAL vs. OKC,1,8,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,143,23,OKC,DAL,OKC
+83,2011-12,Regular Season,0021100073,"JAN 02, 2012",DAL vs. OKC,1,5,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,1,1,OKC,DAL,OKC
+84,2011-12,Regular Season,0021100073,"JAN 02, 2012",DAL vs. OKC,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,30,-180,246,OKC,DAL,OKC
+85,2011-12,Regular Season,0021100073,"JAN 02, 2012",DAL vs. OKC,2,7,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,-4,-5,OKC,DAL,OKC
+86,2011-12,Regular Season,0021100073,"JAN 02, 2012",DAL vs. OKC,2,7,40,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,9,-75,63,OKC,DAL,OKC
+87,2011-12,Regular Season,0021100073,"JAN 02, 2012",DAL vs. OKC,3,11,36,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,12,-108,55,OKC,DAL,OKC
+88,2011-12,Regular Season,0021100073,"JAN 02, 2012",DAL vs. OKC,3,9,51,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,13,119,56,OKC,DAL,OKC
+89,2011-12,Regular Season,0021100073,"JAN 02, 2012",DAL vs. OKC,3,8,46,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,13,6,135,OKC,DAL,OKC
+90,2011-12,Regular Season,0021100073,"JAN 02, 2012",DAL vs. OKC,3,8,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-207,127,OKC,DAL,OKC
+91,2011-12,Regular Season,0021100073,"JAN 02, 2012",DAL vs. OKC,3,5,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,3,-4,31,OKC,DAL,OKC
+92,2011-12,Regular Season,0021100073,"JAN 02, 2012",DAL vs. OKC,3,1,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,24+ ft.,22,-228,19,OKC,DAL,OKC
+93,2011-12,Regular Season,0021100073,"JAN 02, 2012",DAL vs. OKC,4,11,16,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,14,122,71,OKC,DAL,OKC
+94,2011-12,Regular Season,0021100073,"JAN 02, 2012",DAL vs. OKC,4,9,0,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,13,69,115,OKC,DAL,OKC
+95,2011-12,Regular Season,0021100073,"JAN 02, 2012",DAL vs. OKC,4,8,3,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,24+ ft.,22,-229,17,OKC,DAL,OKC
+96,2011-12,Regular Season,0021100073,"JAN 02, 2012",DAL vs. OKC,4,7,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,182,176,OKC,DAL,OKC
+97,2011-12,Regular Season,0021100073,"JAN 02, 2012",DAL vs. OKC,4,3,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,124,85,OKC,DAL,OKC
+98,2011-12,Regular Season,0021100090,"JAN 04, 2012",DAL vs. PHX,1,10,37,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,2,12,PHX,DAL,PHX
+99,2011-12,Regular Season,0021100090,"JAN 04, 2012",DAL vs. PHX,1,8,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-117,66,PHX,DAL,PHX
+100,2011-12,Regular Season,0021100090,"JAN 04, 2012",DAL vs. PHX,1,8,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-153,17,PHX,DAL,PHX
+101,2011-12,Regular Season,0021100090,"JAN 04, 2012",DAL vs. PHX,1,7,23,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,24,4,PHX,DAL,PHX
+102,2011-12,Regular Season,0021100090,"JAN 04, 2012",DAL vs. PHX,1,7,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-97,149,PHX,DAL,PHX
+103,2011-12,Regular Season,0021100090,"JAN 04, 2012",DAL vs. PHX,1,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-179,30,PHX,DAL,PHX
+104,2011-12,Regular Season,0021100090,"JAN 04, 2012",DAL vs. PHX,2,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,21,100,187,PHX,DAL,PHX
+105,2011-12,Regular Season,0021100090,"JAN 04, 2012",DAL vs. PHX,2,2,54,Missed Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,24,6,PHX,DAL,PHX
+106,2011-12,Regular Season,0021100090,"JAN 04, 2012",DAL vs. PHX,2,2,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,10,94,52,PHX,DAL,PHX
+107,2011-12,Regular Season,0021100090,"JAN 04, 2012",DAL vs. PHX,2,1,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,121,25,PHX,DAL,PHX
+108,2011-12,Regular Season,0021100090,"JAN 04, 2012",DAL vs. PHX,3,10,34,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,9,80,45,PHX,DAL,PHX
+109,2011-12,Regular Season,0021100090,"JAN 04, 2012",DAL vs. PHX,3,7,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-4,12,PHX,DAL,PHX
+110,2011-12,Regular Season,0021100090,"JAN 04, 2012",DAL vs. PHX,3,7,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,15,0,PHX,DAL,PHX
+111,2011-12,Regular Season,0021100090,"JAN 04, 2012",DAL vs. PHX,3,6,45,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,2,19,PHX,DAL,PHX
+112,2011-12,Regular Season,0021100090,"JAN 04, 2012",DAL vs. PHX,4,10,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,168,25,PHX,DAL,PHX
+113,2011-12,Regular Season,0021100090,"JAN 04, 2012",DAL vs. PHX,4,5,40,Missed Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,29,4,PHX,DAL,PHX
+114,2011-12,Regular Season,0021100090,"JAN 04, 2012",DAL vs. PHX,4,4,55,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,12,95,88,PHX,DAL,PHX
+115,2011-12,Regular Season,0021100095,"JAN 05, 2012",DAL @ SAS,1,11,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,23,124,205,SAS,SAS,DAL
+116,2011-12,Regular Season,0021100095,"JAN 05, 2012",DAL @ SAS,1,10,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-114,30,SAS,SAS,DAL
+117,2011-12,Regular Season,0021100095,"JAN 05, 2012",DAL @ SAS,1,9,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,-117,50,SAS,SAS,DAL
+118,2011-12,Regular Season,0021100095,"JAN 05, 2012",DAL @ SAS,1,5,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,119,209,SAS,SAS,DAL
+119,2011-12,Regular Season,0021100095,"JAN 05, 2012",DAL @ SAS,2,7,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,56,194,SAS,SAS,DAL
+120,2011-12,Regular Season,0021100095,"JAN 05, 2012",DAL @ SAS,2,0,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-136,42,SAS,SAS,DAL
+121,2011-12,Regular Season,0021100095,"JAN 05, 2012",DAL @ SAS,2,0,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,141,195,SAS,SAS,DAL
+122,2011-12,Regular Season,0021100095,"JAN 05, 2012",DAL @ SAS,3,11,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-41,162,SAS,SAS,DAL
+123,2011-12,Regular Season,0021100095,"JAN 05, 2012",DAL @ SAS,3,10,27,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-11,3,SAS,SAS,DAL
+124,2011-12,Regular Season,0021100095,"JAN 05, 2012",DAL @ SAS,3,8,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,14,65,126,SAS,SAS,DAL
+125,2011-12,Regular Season,0021100095,"JAN 05, 2012",DAL @ SAS,3,7,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,1,0,SAS,SAS,DAL
+126,2011-12,Regular Season,0021100117,"JAN 07, 2012",DAL vs. NOH,1,9,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-153,15,NOH,DAL,NOH
+127,2011-12,Regular Season,0021100117,"JAN 07, 2012",DAL vs. NOH,2,11,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-163,112,NOH,DAL,NOH
+128,2011-12,Regular Season,0021100117,"JAN 07, 2012",DAL vs. NOH,2,5,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,125,124,NOH,DAL,NOH
+129,2011-12,Regular Season,0021100117,"JAN 07, 2012",DAL vs. NOH,3,8,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-64,238,NOH,DAL,NOH
+130,2011-12,Regular Season,0021100117,"JAN 07, 2012",DAL vs. NOH,3,6,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,146,115,NOH,DAL,NOH
+131,2011-12,Regular Season,0021100117,"JAN 07, 2012",DAL vs. NOH,3,4,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,13,-68,116,NOH,DAL,NOH
+132,2011-12,Regular Season,0021100117,"JAN 07, 2012",DAL vs. NOH,3,4,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-157,19,NOH,DAL,NOH
+133,2011-12,Regular Season,0021100117,"JAN 07, 2012",DAL vs. NOH,4,11,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-175,28,NOH,DAL,NOH
+134,2011-12,Regular Season,0021100117,"JAN 07, 2012",DAL vs. NOH,4,9,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,143,146,NOH,DAL,NOH
+135,2011-12,Regular Season,0021100117,"JAN 07, 2012",DAL vs. NOH,4,7,3,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,24+ ft.,24,241,14,NOH,DAL,NOH
+136,2011-12,Regular Season,0021100117,"JAN 07, 2012",DAL vs. NOH,4,4,24,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,9,39,83,NOH,DAL,NOH
+137,2011-12,Regular Season,0021100135,"JAN 10, 2012",DAL @ DET,1,8,8,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-185,36,DET,DET,DAL
+138,2011-12,Regular Season,0021100135,"JAN 10, 2012",DAL @ DET,1,6,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,121,116,DET,DET,DAL
+139,2011-12,Regular Season,0021100135,"JAN 10, 2012",DAL @ DET,2,9,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,182,44,DET,DET,DAL
+140,2011-12,Regular Season,0021100135,"JAN 10, 2012",DAL @ DET,2,8,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-179,71,DET,DET,DAL
+141,2011-12,Regular Season,0021100135,"JAN 10, 2012",DAL @ DET,2,5,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-196,23,DET,DET,DAL
+142,2011-12,Regular Season,0021100135,"JAN 10, 2012",DAL @ DET,2,3,19,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,11,-5,110,DET,DET,DAL
+143,2011-12,Regular Season,0021100135,"JAN 10, 2012",DAL @ DET,3,11,24,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,155,39,DET,DET,DAL
+144,2011-12,Regular Season,0021100135,"JAN 10, 2012",DAL @ DET,3,7,19,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,-4,6,DET,DET,DAL
+145,2011-12,Regular Season,0021100135,"JAN 10, 2012",DAL @ DET,3,5,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-152,94,DET,DET,DAL
+146,2011-12,Regular Season,0021100135,"JAN 10, 2012",DAL @ DET,4,7,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-76,159,DET,DET,DAL
+147,2011-12,Regular Season,0021100146,"JAN 11, 2012",DAL @ BOS,1,7,36,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,14,-75,123,BOS,BOS,DAL
+148,2011-12,Regular Season,0021100146,"JAN 11, 2012",DAL @ BOS,2,11,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,215,119,BOS,BOS,DAL
+149,2011-12,Regular Season,0021100146,"JAN 11, 2012",DAL @ BOS,2,9,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,143,151,BOS,BOS,DAL
+150,2011-12,Regular Season,0021100146,"JAN 11, 2012",DAL @ BOS,2,7,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,23,7,BOS,BOS,DAL
+151,2011-12,Regular Season,0021100146,"JAN 11, 2012",DAL @ BOS,2,3,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-134,99,BOS,BOS,DAL
+152,2011-12,Regular Season,0021100146,"JAN 11, 2012",DAL @ BOS,2,1,46,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,108,58,BOS,BOS,DAL
+153,2011-12,Regular Season,0021100146,"JAN 11, 2012",DAL @ BOS,2,1,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,146,69,BOS,BOS,DAL
+154,2011-12,Regular Season,0021100146,"JAN 11, 2012",DAL @ BOS,2,1,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,9,-93,26,BOS,BOS,DAL
+155,2011-12,Regular Season,0021100146,"JAN 11, 2012",DAL @ BOS,4,10,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,0,-5,BOS,BOS,DAL
+156,2011-12,Regular Season,0021100146,"JAN 11, 2012",DAL @ BOS,4,7,28,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,119,22,BOS,BOS,DAL
+157,2011-12,Regular Season,0021100146,"JAN 11, 2012",DAL @ BOS,4,0,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,17,17,BOS,BOS,DAL
+158,2011-12,Regular Season,0021100165,"JAN 13, 2012",DAL vs. MIL,1,8,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,159,50,MIL,DAL,MIL
+159,2011-12,Regular Season,0021100165,"JAN 13, 2012",DAL vs. MIL,1,7,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,58,244,MIL,DAL,MIL
+160,2011-12,Regular Season,0021100165,"JAN 13, 2012",DAL vs. MIL,3,9,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,143,50,MIL,DAL,MIL
+161,2011-12,Regular Season,0021100165,"JAN 13, 2012",DAL vs. MIL,3,9,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,21,-131,167,MIL,DAL,MIL
+162,2011-12,Regular Season,0021100165,"JAN 13, 2012",DAL vs. MIL,3,8,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-49,179,MIL,DAL,MIL
+163,2011-12,Regular Season,0021100165,"JAN 13, 2012",DAL vs. MIL,3,7,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,13,62,123,MIL,DAL,MIL
+164,2011-12,Regular Season,0021100165,"JAN 13, 2012",DAL vs. MIL,3,7,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-68,241,MIL,DAL,MIL
+165,2011-12,Regular Season,0021100178,"JAN 14, 2012",DAL vs. SAC,1,11,9,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-139,33,SAC,DAL,SAC
+166,2011-12,Regular Season,0021100178,"JAN 14, 2012",DAL vs. SAC,1,10,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,20,0,SAC,DAL,SAC
+167,2011-12,Regular Season,0021100178,"JAN 14, 2012",DAL vs. SAC,1,8,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,59,252,SAC,DAL,SAC
+168,2011-12,Regular Season,0021100178,"JAN 14, 2012",DAL vs. SAC,1,8,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-175,47,SAC,DAL,SAC
+169,2011-12,Regular Season,0021100178,"JAN 14, 2012",DAL vs. SAC,1,6,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,113,105,SAC,DAL,SAC
+170,2011-12,Regular Season,0021100178,"JAN 14, 2012",DAL vs. SAC,1,6,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-56,178,SAC,DAL,SAC
+171,2011-12,Regular Season,0021100178,"JAN 14, 2012",DAL vs. SAC,2,7,39,Made Shot,Fadeaway Bank shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-122,67,SAC,DAL,SAC
+172,2011-12,Regular Season,0021100178,"JAN 14, 2012",DAL vs. SAC,2,4,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,20,11,SAC,DAL,SAC
+173,2011-12,Regular Season,0021100178,"JAN 14, 2012",DAL vs. SAC,2,3,59,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-158,15,SAC,DAL,SAC
+174,2011-12,Regular Season,0021100178,"JAN 14, 2012",DAL vs. SAC,3,11,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,130,74,SAC,DAL,SAC
+175,2011-12,Regular Season,0021100178,"JAN 14, 2012",DAL vs. SAC,3,10,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,67,175,SAC,DAL,SAC
+176,2011-12,Regular Season,0021100178,"JAN 14, 2012",DAL vs. SAC,3,9,21,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,24+ ft.,23,234,11,SAC,DAL,SAC
+177,2011-12,Regular Season,0021100178,"JAN 14, 2012",DAL vs. SAC,3,9,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,20,175,SAC,DAL,SAC
+178,2011-12,Regular Season,0021100178,"JAN 14, 2012",DAL vs. SAC,3,8,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,29,181,SAC,DAL,SAC
+179,2011-12,Regular Season,0021100194,"JAN 16, 2012",DAL @ LAL,1,10,3,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,3,20,26,LAL,LAL,DAL
+180,2011-12,Regular Season,0021100194,"JAN 16, 2012",DAL @ LAL,1,9,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,6,20,LAL,LAL,DAL
+181,2011-12,Regular Season,0021100194,"JAN 16, 2012",DAL @ LAL,1,8,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-86,138,LAL,LAL,DAL
+182,2011-12,Regular Season,0021100194,"JAN 16, 2012",DAL @ LAL,1,7,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,105,108,LAL,LAL,DAL
+183,2011-12,Regular Season,0021100194,"JAN 16, 2012",DAL @ LAL,1,0,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-127,82,LAL,LAL,DAL
+184,2011-12,Regular Season,0021100194,"JAN 16, 2012",DAL @ LAL,2,9,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,108,224,LAL,LAL,DAL
+185,2011-12,Regular Season,0021100194,"JAN 16, 2012",DAL @ LAL,2,6,29,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-112,3,LAL,LAL,DAL
+186,2011-12,Regular Season,0021100194,"JAN 16, 2012",DAL @ LAL,2,5,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,174,-6,LAL,LAL,DAL
+187,2011-12,Regular Season,0021100194,"JAN 16, 2012",DAL @ LAL,2,3,49,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,16-24 ft.,18,88,160,LAL,LAL,DAL
+188,2011-12,Regular Season,0021100194,"JAN 16, 2012",DAL @ LAL,2,2,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-163,-16,LAL,LAL,DAL
+189,2011-12,Regular Season,0021100194,"JAN 16, 2012",DAL @ LAL,3,11,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,113,124,LAL,LAL,DAL
+190,2011-12,Regular Season,0021100194,"JAN 16, 2012",DAL @ LAL,3,10,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,2,22,LAL,LAL,DAL
+191,2011-12,Regular Season,0021100194,"JAN 16, 2012",DAL @ LAL,3,8,51,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,1,16,LAL,LAL,DAL
+192,2011-12,Regular Season,0021100194,"JAN 16, 2012",DAL @ LAL,3,7,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-101,162,LAL,LAL,DAL
+193,2011-12,Regular Season,0021100194,"JAN 16, 2012",DAL @ LAL,3,6,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,171,7,LAL,LAL,DAL
+194,2011-12,Regular Season,0021100194,"JAN 16, 2012",DAL @ LAL,4,3,59,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,9,67,74,LAL,LAL,DAL
+195,2011-12,Regular Season,0021100194,"JAN 16, 2012",DAL @ LAL,4,2,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,92,168,LAL,LAL,DAL
+196,2011-12,Regular Season,0021100212,"JAN 18, 2012",DAL @ LAC,1,10,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,27,-164,224,LAC,LAC,DAL
+197,2011-12,Regular Season,0021100212,"JAN 18, 2012",DAL @ LAC,1,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,159,80,LAC,LAC,DAL
+198,2011-12,Regular Season,0021100212,"JAN 18, 2012",DAL @ LAC,1,8,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-141,89,LAC,LAC,DAL
+199,2011-12,Regular Season,0021100212,"JAN 18, 2012",DAL @ LAC,1,7,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,21,102,192,LAC,LAC,DAL
+200,2011-12,Regular Season,0021100212,"JAN 18, 2012",DAL @ LAC,1,0,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,-142,149,LAC,LAC,DAL
+201,2011-12,Regular Season,0021100212,"JAN 18, 2012",DAL @ LAC,2,11,44,Missed Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,9,50,82,LAC,LAC,DAL
+202,2011-12,Regular Season,0021100212,"JAN 18, 2012",DAL @ LAC,2,10,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,119,118,LAC,LAC,DAL
+203,2011-12,Regular Season,0021100212,"JAN 18, 2012",DAL @ LAC,2,9,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,21,29,208,LAC,LAC,DAL
+204,2011-12,Regular Season,0021100212,"JAN 18, 2012",DAL @ LAC,2,9,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-146,203,LAC,LAC,DAL
+205,2011-12,Regular Season,0021100212,"JAN 18, 2012",DAL @ LAC,2,1,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,12,59,105,LAC,LAC,DAL
+206,2011-12,Regular Season,0021100212,"JAN 18, 2012",DAL @ LAC,2,0,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,27,122,242,LAC,LAC,DAL
+207,2011-12,Regular Season,0021100212,"JAN 18, 2012",DAL @ LAC,3,10,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,21,212,1,LAC,LAC,DAL
+208,2011-12,Regular Season,0021100212,"JAN 18, 2012",DAL @ LAC,3,8,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-153,88,LAC,LAC,DAL
+209,2011-12,Regular Season,0021100212,"JAN 18, 2012",DAL @ LAC,4,10,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-109,142,LAC,LAC,DAL
+210,2011-12,Regular Season,0021100212,"JAN 18, 2012",DAL @ LAC,4,7,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-75,179,LAC,LAC,DAL
+211,2011-12,Regular Season,0021100212,"JAN 18, 2012",DAL @ LAC,4,6,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,27,-108,258,LAC,LAC,DAL
+212,2011-12,Regular Season,0021100212,"JAN 18, 2012",DAL @ LAC,4,6,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,95,249,LAC,LAC,DAL
+213,2011-12,Regular Season,0021100212,"JAN 18, 2012",DAL @ LAC,4,3,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,-71,258,LAC,LAC,DAL
+214,2011-12,Regular Season,0021100215,"JAN 19, 2012",DAL @ UTA,1,11,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,184,37,UTA,UTA,DAL
+215,2011-12,Regular Season,0021100215,"JAN 19, 2012",DAL @ UTA,1,7,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-82,233,UTA,UTA,DAL
+216,2011-12,Regular Season,0021100215,"JAN 19, 2012",DAL @ UTA,1,6,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,75,178,UTA,UTA,DAL
+217,2011-12,Regular Season,0021100215,"JAN 19, 2012",DAL @ UTA,1,5,31,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,111,83,UTA,UTA,DAL
+218,2011-12,Regular Season,0021100215,"JAN 19, 2012",DAL @ UTA,1,0,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,15,6,UTA,UTA,DAL
+219,2011-12,Regular Season,0021100215,"JAN 19, 2012",DAL @ UTA,2,10,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,162,101,UTA,UTA,DAL
+220,2011-12,Regular Season,0021100215,"JAN 19, 2012",DAL @ UTA,2,9,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,10,153,UTA,UTA,DAL
+221,2011-12,Regular Season,0021100215,"JAN 19, 2012",DAL @ UTA,2,1,10,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-168,-24,UTA,UTA,DAL
+222,2011-12,Regular Season,0021100215,"JAN 19, 2012",DAL @ UTA,3,10,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-139,116,UTA,UTA,DAL
+223,2011-12,Regular Season,0021100215,"JAN 19, 2012",DAL @ UTA,3,7,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-199,0,UTA,UTA,DAL
+224,2011-12,Regular Season,0021100215,"JAN 19, 2012",DAL @ UTA,3,2,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,56,194,UTA,UTA,DAL
+225,2011-12,Regular Season,0021100215,"JAN 19, 2012",DAL @ UTA,4,1,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,84,233,UTA,UTA,DAL
+226,2011-12,Regular Season,0021100295,"JAN 29, 2012",DAL vs. SAS,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-112,217,SAS,DAL,SAS
+227,2011-12,Regular Season,0021100295,"JAN 29, 2012",DAL vs. SAS,2,11,3,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,9,-92,22,SAS,DAL,SAS
+228,2011-12,Regular Season,0021100295,"JAN 29, 2012",DAL vs. SAS,2,9,33,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,3,-21,25,SAS,DAL,SAS
+229,2011-12,Regular Season,0021100295,"JAN 29, 2012",DAL vs. SAS,2,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,34,173,SAS,DAL,SAS
+230,2011-12,Regular Season,0021100295,"JAN 29, 2012",DAL vs. SAS,4,10,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,138,107,SAS,DAL,SAS
+231,2011-12,Regular Season,0021100295,"JAN 29, 2012",DAL vs. SAS,4,9,12,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,10,-105,14,SAS,DAL,SAS
+232,2011-12,Regular Season,0021100295,"JAN 29, 2012",DAL vs. SAS,4,8,33,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-29,151,SAS,DAL,SAS
+233,2011-12,Regular Season,0021100295,"JAN 29, 2012",DAL vs. SAS,4,2,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,151,4,SAS,DAL,SAS
+234,2011-12,Regular Season,0021100295,"JAN 29, 2012",DAL vs. SAS,4,2,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,147,80,SAS,DAL,SAS
+235,2011-12,Regular Season,0021100295,"JAN 29, 2012",DAL vs. SAS,5,4,39,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,24+ ft.,22,-223,6,SAS,DAL,SAS
+236,2011-12,Regular Season,0021100295,"JAN 29, 2012",DAL vs. SAS,5,3,45,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-92,132,SAS,DAL,SAS
+237,2011-12,Regular Season,0021100295,"JAN 29, 2012",DAL vs. SAS,5,3,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-59,239,SAS,DAL,SAS
+238,2011-12,Regular Season,0021100295,"JAN 29, 2012",DAL vs. SAS,5,1,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,86,146,SAS,DAL,SAS
+239,2011-12,Regular Season,0021100295,"JAN 29, 2012",DAL vs. SAS,5,1,11,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,3,32,0,SAS,DAL,SAS
+240,2011-12,Regular Season,0021100306,"JAN 30, 2012",DAL @ PHX,1,10,20,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,10,108,1,PHX,PHX,DAL
+241,2011-12,Regular Season,0021100306,"JAN 30, 2012",DAL @ PHX,1,6,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-155,205,PHX,PHX,DAL
+242,2011-12,Regular Season,0021100306,"JAN 30, 2012",DAL @ PHX,2,11,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,7,3,PHX,PHX,DAL
+243,2011-12,Regular Season,0021100306,"JAN 30, 2012",DAL @ PHX,2,7,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,135,82,PHX,PHX,DAL
+244,2011-12,Regular Season,0021100306,"JAN 30, 2012",DAL @ PHX,2,2,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,-163,118,PHX,PHX,DAL
+245,2011-12,Regular Season,0021100306,"JAN 30, 2012",DAL @ PHX,3,11,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,-157,124,PHX,PHX,DAL
+246,2011-12,Regular Season,0021100306,"JAN 30, 2012",DAL @ PHX,3,7,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-175,-28,PHX,PHX,DAL
+247,2011-12,Regular Season,0021100306,"JAN 30, 2012",DAL @ PHX,4,11,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-103,227,PHX,PHX,DAL
+248,2011-12,Regular Season,0021100306,"JAN 30, 2012",DAL @ PHX,4,10,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,151,-2,PHX,PHX,DAL
+249,2011-12,Regular Season,0021100306,"JAN 30, 2012",DAL @ PHX,4,8,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-232,104,PHX,PHX,DAL
+250,2011-12,Regular Season,0021100321,"FEB 01, 2012",DAL vs. OKC,1,10,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-60,246,OKC,DAL,OKC
+251,2011-12,Regular Season,0021100321,"FEB 01, 2012",DAL vs. OKC,1,9,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,83,183,OKC,DAL,OKC
+252,2011-12,Regular Season,0021100321,"FEB 01, 2012",DAL vs. OKC,2,11,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-174,37,OKC,DAL,OKC
+253,2011-12,Regular Season,0021100321,"FEB 01, 2012",DAL vs. OKC,2,10,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,114,53,OKC,DAL,OKC
+254,2011-12,Regular Season,0021100321,"FEB 01, 2012",DAL vs. OKC,2,1,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,31,244,OKC,DAL,OKC
+255,2011-12,Regular Season,0021100321,"FEB 01, 2012",DAL vs. OKC,2,0,45,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,4,-27,37,OKC,DAL,OKC
+256,2011-12,Regular Season,0021100321,"FEB 01, 2012",DAL vs. OKC,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,27,-105,254,OKC,DAL,OKC
+257,2011-12,Regular Season,0021100321,"FEB 01, 2012",DAL vs. OKC,3,10,53,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,11,58,104,OKC,DAL,OKC
+258,2011-12,Regular Season,0021100321,"FEB 01, 2012",DAL vs. OKC,3,8,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,7,183,OKC,DAL,OKC
+259,2011-12,Regular Season,0021100321,"FEB 01, 2012",DAL vs. OKC,3,2,32,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-112,66,OKC,DAL,OKC
+260,2011-12,Regular Season,0021100321,"FEB 01, 2012",DAL vs. OKC,3,0,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-204,154,OKC,DAL,OKC
+261,2011-12,Regular Season,0021100321,"FEB 01, 2012",DAL vs. OKC,4,9,12,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,13,77,110,OKC,DAL,OKC
+262,2011-12,Regular Season,0021100321,"FEB 01, 2012",DAL vs. OKC,4,7,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,62,172,OKC,DAL,OKC
+263,2011-12,Regular Season,0021100321,"FEB 01, 2012",DAL vs. OKC,4,5,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-120,213,OKC,DAL,OKC
+264,2011-12,Regular Season,0021100321,"FEB 01, 2012",DAL vs. OKC,4,3,23,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,12,14,OKC,DAL,OKC
+265,2011-12,Regular Season,0021100340,"FEB 03, 2012",DAL vs. IND,1,11,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,177,67,IND,DAL,IND
+266,2011-12,Regular Season,0021100340,"FEB 03, 2012",DAL vs. IND,1,10,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,22,10,220,IND,DAL,IND
+267,2011-12,Regular Season,0021100340,"FEB 03, 2012",DAL vs. IND,1,8,27,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-152,28,IND,DAL,IND
+268,2011-12,Regular Season,0021100340,"FEB 03, 2012",DAL vs. IND,1,7,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,39,181,IND,DAL,IND
+269,2011-12,Regular Season,0021100340,"FEB 03, 2012",DAL vs. IND,1,6,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,149,101,IND,DAL,IND
+270,2011-12,Regular Season,0021100340,"FEB 03, 2012",DAL vs. IND,2,11,23,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,-24,7,IND,DAL,IND
+271,2011-12,Regular Season,0021100340,"FEB 03, 2012",DAL vs. IND,2,10,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,136,200,IND,DAL,IND
+272,2011-12,Regular Season,0021100340,"FEB 03, 2012",DAL vs. IND,2,9,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-70,230,IND,DAL,IND
+273,2011-12,Regular Season,0021100340,"FEB 03, 2012",DAL vs. IND,2,7,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,193,11,IND,DAL,IND
+274,2011-12,Regular Season,0021100340,"FEB 03, 2012",DAL vs. IND,2,6,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,21,-125,172,IND,DAL,IND
+275,2011-12,Regular Season,0021100340,"FEB 03, 2012",DAL vs. IND,2,3,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,95,135,IND,DAL,IND
+276,2011-12,Regular Season,0021100340,"FEB 03, 2012",DAL vs. IND,3,8,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,99,225,IND,DAL,IND
+277,2011-12,Regular Season,0021100340,"FEB 03, 2012",DAL vs. IND,3,0,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,6,-57,36,IND,DAL,IND
+278,2011-12,Regular Season,0021100340,"FEB 03, 2012",DAL vs. IND,4,5,29,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,10,-105,1,IND,DAL,IND
+279,2011-12,Regular Season,0021100340,"FEB 03, 2012",DAL vs. IND,4,4,7,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,12,97,71,IND,DAL,IND
+280,2011-12,Regular Season,0021100340,"FEB 03, 2012",DAL vs. IND,4,2,26,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,6,20,64,IND,DAL,IND
+281,2011-12,Regular Season,0021100340,"FEB 03, 2012",DAL vs. IND,4,1,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-153,190,IND,DAL,IND
+282,2011-12,Regular Season,0021100347,"FEB 04, 2012",DAL @ CLE,1,9,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,9,70,58,CLE,CLE,DAL
+283,2011-12,Regular Season,0021100347,"FEB 04, 2012",DAL @ CLE,1,6,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-120,217,CLE,CLE,DAL
+284,2011-12,Regular Season,0021100347,"FEB 04, 2012",DAL @ CLE,2,9,27,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,15,-2,CLE,CLE,DAL
+285,2011-12,Regular Season,0021100347,"FEB 04, 2012",DAL @ CLE,2,7,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-174,55,CLE,CLE,DAL
+286,2011-12,Regular Season,0021100347,"FEB 04, 2012",DAL @ CLE,2,7,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,149,25,CLE,CLE,DAL
+287,2011-12,Regular Season,0021100347,"FEB 04, 2012",DAL @ CLE,3,11,14,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,154,23,CLE,CLE,DAL
+288,2011-12,Regular Season,0021100347,"FEB 04, 2012",DAL @ CLE,3,9,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,110,80,CLE,CLE,DAL
+289,2011-12,Regular Season,0021100347,"FEB 04, 2012",DAL @ CLE,3,6,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-101,160,CLE,CLE,DAL
+290,2011-12,Regular Season,0021100347,"FEB 04, 2012",DAL @ CLE,3,5,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,10,19,CLE,CLE,DAL
+291,2011-12,Regular Season,0021100347,"FEB 04, 2012",DAL @ CLE,3,4,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,165,22,CLE,CLE,DAL
+292,2011-12,Regular Season,0021100347,"FEB 04, 2012",DAL @ CLE,4,11,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,27,-152,233,CLE,CLE,DAL
+293,2011-12,Regular Season,0021100347,"FEB 04, 2012",DAL @ CLE,4,7,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-158,53,CLE,CLE,DAL
+294,2011-12,Regular Season,0021100347,"FEB 04, 2012",DAL @ CLE,4,6,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,12,62,107,CLE,CLE,DAL
+295,2011-12,Regular Season,0021100347,"FEB 04, 2012",DAL @ CLE,4,5,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,0,3,CLE,CLE,DAL
+296,2011-12,Regular Season,0021100347,"FEB 04, 2012",DAL @ CLE,4,1,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-98,56,CLE,CLE,DAL
+297,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,1,11,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,171,67,DEN,DEN,DAL
+298,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,1,9,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-5,254,DEN,DEN,DAL
+299,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,1,7,54,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-119,15,DEN,DEN,DAL
+300,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,2,10,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,78,194,DEN,DEN,DAL
+301,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,2,9,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,155,197,DEN,DEN,DAL
+302,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,2,9,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,11,-62,96,DEN,DEN,DAL
+303,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,2,5,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,9,157,DEN,DEN,DAL
+304,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,2,5,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,62,183,DEN,DEN,DAL
+305,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,2,0,43,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,12,37,115,DEN,DEN,DAL
+306,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,3,11,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,151,74,DEN,DEN,DAL
+307,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,3,9,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,141,214,DEN,DEN,DAL
+308,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,3,8,15,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,12,-3,DEN,DEN,DAL
+309,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,3,7,45,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,4,4,DEN,DEN,DAL
+310,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,3,7,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-166,74,DEN,DEN,DAL
+311,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,3,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,39,32,394,DEN,DEN,DAL
+312,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,4,9,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-164,195,DEN,DEN,DAL
+313,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,4,9,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,174,102,DEN,DEN,DAL
+314,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,4,3,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,140,217,DEN,DEN,DAL
+315,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,4,3,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,21,106,190,DEN,DEN,DAL
+316,2011-12,Regular Season,0021100382,"FEB 08, 2012",DAL @ DEN,4,1,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-26,157,DEN,DEN,DAL
+317,2011-12,Regular Season,0021100398,"FEB 10, 2012",DAL @ MIN,1,11,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-57,238,MIN,MIN,DAL
+318,2011-12,Regular Season,0021100398,"FEB 10, 2012",DAL @ MIN,1,7,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,119,209,MIN,MIN,DAL
+319,2011-12,Regular Season,0021100398,"FEB 10, 2012",DAL @ MIN,1,6,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-196,140,MIN,MIN,DAL
+320,2011-12,Regular Season,0021100398,"FEB 10, 2012",DAL @ MIN,2,7,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,-89,183,MIN,MIN,DAL
+321,2011-12,Regular Season,0021100398,"FEB 10, 2012",DAL @ MIN,2,4,27,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,5,-37,45,MIN,MIN,DAL
+322,2011-12,Regular Season,0021100398,"FEB 10, 2012",DAL @ MIN,2,3,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-18,6,MIN,MIN,DAL
+323,2011-12,Regular Season,0021100398,"FEB 10, 2012",DAL @ MIN,2,0,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,102,246,MIN,MIN,DAL
+324,2011-12,Regular Season,0021100398,"FEB 10, 2012",DAL @ MIN,3,9,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,81,127,MIN,MIN,DAL
+325,2011-12,Regular Season,0021100398,"FEB 10, 2012",DAL @ MIN,3,8,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,108,138,MIN,MIN,DAL
+326,2011-12,Regular Season,0021100398,"FEB 10, 2012",DAL @ MIN,3,8,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,28,0,MIN,MIN,DAL
+327,2011-12,Regular Season,0021100398,"FEB 10, 2012",DAL @ MIN,3,8,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,0,244,MIN,MIN,DAL
+328,2011-12,Regular Season,0021100398,"FEB 10, 2012",DAL @ MIN,3,7,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-122,149,MIN,MIN,DAL
+329,2011-12,Regular Season,0021100398,"FEB 10, 2012",DAL @ MIN,3,4,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,133,134,MIN,MIN,DAL
+330,2011-12,Regular Season,0021100398,"FEB 10, 2012",DAL @ MIN,3,4,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,159,197,MIN,MIN,DAL
+331,2011-12,Regular Season,0021100398,"FEB 10, 2012",DAL @ MIN,4,11,30,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,16-24 ft.,18,121,137,MIN,MIN,DAL
+332,2011-12,Regular Season,0021100398,"FEB 10, 2012",DAL @ MIN,4,9,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,160,88,MIN,MIN,DAL
+333,2011-12,Regular Season,0021100398,"FEB 10, 2012",DAL @ MIN,4,7,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-10,-8,MIN,MIN,DAL
+334,2011-12,Regular Season,0021100398,"FEB 10, 2012",DAL @ MIN,4,6,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,190,156,MIN,MIN,DAL
+335,2011-12,Regular Season,0021100398,"FEB 10, 2012",DAL @ MIN,4,1,29,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,14,141,20,MIN,MIN,DAL
+336,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,1,10,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,141,91,POR,DAL,POR
+337,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,1,6,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,141,140,POR,DAL,POR
+338,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,1,6,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-117,9,POR,DAL,POR
+339,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,1,5,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,13,6,POR,DAL,POR
+340,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,2,5,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,14,-67,131,POR,DAL,POR
+341,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,2,2,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-62,238,POR,DAL,POR
+342,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,2,1,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,58,151,POR,DAL,POR
+343,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,3,11,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-49,249,POR,DAL,POR
+344,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,3,10,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-49,179,POR,DAL,POR
+345,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,3,9,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,12,40,118,POR,DAL,POR
+346,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,3,0,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,147,33,POR,DAL,POR
+347,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,4,10,30,Missed Shot,Fadeaway Bank shot,2PT Field Goal,Mid-Range,8-16 ft.,12,-95,85,POR,DAL,POR
+348,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,4,7,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-29,257,POR,DAL,POR
+349,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,4,3,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,-2,9,POR,DAL,POR
+350,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,4,0,31,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,16-24 ft.,20,26,208,POR,DAL,POR
+351,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,4,0,0,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,143,127,POR,DAL,POR
+352,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,5,3,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,151,17,POR,DAL,POR
+353,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,5,0,3,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-128,26,POR,DAL,POR
+354,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,6,3,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,121,135,POR,DAL,POR
+355,2011-12,Regular Season,0021100405,"FEB 11, 2012",DAL vs. POR,6,0,16,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,15,146,POR,DAL,POR
+356,2011-12,Regular Season,0021100418,"FEB 13, 2012",DAL vs. LAC,1,10,44,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,10,91,53,LAC,DAL,LAC
+357,2011-12,Regular Season,0021100418,"FEB 13, 2012",DAL vs. LAC,2,8,52,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,9,81,55,LAC,DAL,LAC
+358,2011-12,Regular Season,0021100418,"FEB 13, 2012",DAL vs. LAC,2,7,25,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,9,-97,23,LAC,DAL,LAC
+359,2011-12,Regular Season,0021100418,"FEB 13, 2012",DAL vs. LAC,3,11,44,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,9,94,7,LAC,DAL,LAC
+360,2011-12,Regular Season,0021100418,"FEB 13, 2012",DAL vs. LAC,3,10,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,22,184,127,LAC,DAL,LAC
+361,2011-12,Regular Season,0021100418,"FEB 13, 2012",DAL vs. LAC,3,9,43,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,177,14,LAC,DAL,LAC
+362,2011-12,Regular Season,0021100418,"FEB 13, 2012",DAL vs. LAC,3,8,11,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,24+ ft.,22,-226,-3,LAC,DAL,LAC
+363,2011-12,Regular Season,0021100418,"FEB 13, 2012",DAL vs. LAC,3,4,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,138,201,LAC,DAL,LAC
+364,2011-12,Regular Season,0021100418,"FEB 13, 2012",DAL vs. LAC,4,7,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,151,48,LAC,DAL,LAC
+365,2011-12,Regular Season,0021100418,"FEB 13, 2012",DAL vs. LAC,4,6,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,166,86,LAC,DAL,LAC
+366,2011-12,Regular Season,0021100418,"FEB 13, 2012",DAL vs. LAC,4,6,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,24+ ft.,23,-223,75,LAC,DAL,LAC
+367,2011-12,Regular Season,0021100418,"FEB 13, 2012",DAL vs. LAC,4,4,3,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,6,67,17,LAC,DAL,LAC
+368,2011-12,Regular Season,0021100418,"FEB 13, 2012",DAL vs. LAC,4,3,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,21,189,97,LAC,DAL,LAC
+369,2011-12,Regular Season,0021100418,"FEB 13, 2012",DAL vs. LAC,4,1,6,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,11,64,101,LAC,DAL,LAC
+370,2011-12,Regular Season,0021100418,"FEB 13, 2012",DAL vs. LAC,4,0,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,179,52,LAC,DAL,LAC
+371,2011-12,Regular Season,0021100438,"FEB 15, 2012",DAL vs. DEN,1,9,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,160,99,DEN,DAL,DEN
+372,2011-12,Regular Season,0021100438,"FEB 15, 2012",DAL vs. DEN,1,7,26,Missed Shot,Fadeaway Bank shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-149,60,DEN,DAL,DEN
+373,2011-12,Regular Season,0021100438,"FEB 15, 2012",DAL vs. DEN,1,7,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-161,183,DEN,DAL,DEN
+374,2011-12,Regular Season,0021100438,"FEB 15, 2012",DAL vs. DEN,1,1,3,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,125,53,DEN,DAL,DEN
+375,2011-12,Regular Season,0021100438,"FEB 15, 2012",DAL vs. DEN,1,0,5,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,15,147,53,DEN,DAL,DEN
+376,2011-12,Regular Season,0021100438,"FEB 15, 2012",DAL vs. DEN,2,5,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,23,155,175,DEN,DAL,DEN
+377,2011-12,Regular Season,0021100438,"FEB 15, 2012",DAL vs. DEN,3,11,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,-166,115,DEN,DAL,DEN
+378,2011-12,Regular Season,0021100438,"FEB 15, 2012",DAL vs. DEN,3,10,4,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,14,127,74,DEN,DAL,DEN
+379,2011-12,Regular Season,0021100438,"FEB 15, 2012",DAL vs. DEN,3,7,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-163,93,DEN,DAL,DEN
+380,2011-12,Regular Season,0021100438,"FEB 15, 2012",DAL vs. DEN,3,7,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,34,250,DEN,DAL,DEN
+381,2011-12,Regular Season,0021100438,"FEB 15, 2012",DAL vs. DEN,3,5,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-153,94,DEN,DAL,DEN
+382,2011-12,Regular Season,0021100438,"FEB 15, 2012",DAL vs. DEN,3,5,30,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,6,6,DEN,DAL,DEN
+383,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,1,11,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,21,-191,96,PHI,PHI,DAL
+384,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,1,10,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-4,11,PHI,PHI,DAL
+385,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,1,9,59,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-111,77,PHI,PHI,DAL
+386,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,1,6,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-116,104,PHI,PHI,DAL
+387,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,1,6,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-155,83,PHI,PHI,DAL
+388,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,1,5,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-153,34,PHI,PHI,DAL
+389,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,1,0,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-10,160,PHI,PHI,DAL
+390,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,2,10,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,32,244,PHI,PHI,DAL
+391,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,2,7,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-142,75,PHI,PHI,DAL
+392,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,2,1,38,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-125,145,PHI,PHI,DAL
+393,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,2,1,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-100,96,PHI,PHI,DAL
+394,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,3,10,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-21,190,PHI,PHI,DAL
+395,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,3,9,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-166,-3,PHI,PHI,DAL
+396,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,3,7,58,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,16-24 ft.,16,163,33,PHI,PHI,DAL
+397,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,3,7,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,7,250,PHI,PHI,DAL
+398,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,3,6,16,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,0,178,PHI,PHI,DAL
+399,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,3,5,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-32,254,PHI,PHI,DAL
+400,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,4,8,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-19,189,PHI,PHI,DAL
+401,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,4,7,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,9,-93,-11,PHI,PHI,DAL
+402,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,4,3,39,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,16-24 ft.,17,168,55,PHI,PHI,DAL
+403,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,4,3,8,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,-125,7,PHI,PHI,DAL
+404,2011-12,Regular Season,0021100446,"FEB 17, 2012",DAL @ PHI,4,1,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-79,242,PHI,PHI,DAL
+405,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,1,10,49,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,10,75,69,NYK,NYK,DAL
+406,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,1,8,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,15,255,NYK,NYK,DAL
+407,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,1,7,0,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,125,17,NYK,NYK,DAL
+408,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,2,11,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,45,157,NYK,NYK,DAL
+409,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,2,10,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,174,0,NYK,NYK,DAL
+410,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,2,10,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-79,231,NYK,NYK,DAL
+411,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,2,8,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,4,1,NYK,NYK,DAL
+412,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,2,7,5,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,8,54,60,NYK,NYK,DAL
+413,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,2,4,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,13,-5,NYK,NYK,DAL
+414,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,2,0,57,Missed Shot,Fadeaway Bank shot,2PT Field Goal,Mid-Range,8-16 ft.,9,92,6,NYK,NYK,DAL
+415,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,3,11,46,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,7,61,48,NYK,NYK,DAL
+416,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,3,10,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,18,3,NYK,NYK,DAL
+417,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,3,8,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,207,138,NYK,NYK,DAL
+418,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,3,7,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,179,167,NYK,NYK,DAL
+419,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,4,9,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-169,175,NYK,NYK,DAL
+420,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,4,6,36,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,9,-97,4,NYK,NYK,DAL
+421,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,4,5,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,-24,3,NYK,NYK,DAL
+422,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,4,4,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-13,1,NYK,NYK,DAL
+423,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,4,2,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,12,-57,113,NYK,NYK,DAL
+424,2011-12,Regular Season,0021100460,"FEB 19, 2012",DAL @ NYK,4,1,51,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,3,-10,33,NYK,NYK,DAL
+425,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,1,11,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,80,153,BOS,DAL,BOS
+426,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,1,9,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,171,1,BOS,DAL,BOS
+427,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,1,8,27,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,10,95,41,BOS,DAL,BOS
+428,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,1,6,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,165,55,BOS,DAL,BOS
+429,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,1,6,14,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-131,17,BOS,DAL,BOS
+430,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,1,5,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,127,69,BOS,DAL,BOS
+431,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,1,4,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,-116,41,BOS,DAL,BOS
+432,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,1,3,32,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,9,91,37,BOS,DAL,BOS
+433,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,2,7,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,80,231,BOS,DAL,BOS
+434,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,2,5,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-35,149,BOS,DAL,BOS
+435,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,2,5,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-160,19,BOS,DAL,BOS
+436,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,2,4,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-152,77,BOS,DAL,BOS
+437,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,2,4,5,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,1,22,BOS,DAL,BOS
+438,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,2,3,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,10,190,BOS,DAL,BOS
+439,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,2,2,55,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-130,36,BOS,DAL,BOS
+440,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,2,2,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-144,28,BOS,DAL,BOS
+441,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,2,1,31,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,13,-11,BOS,DAL,BOS
+442,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,2,1,7,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,-97,86,BOS,DAL,BOS
+443,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,3,11,35,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,16-24 ft.,22,72,209,BOS,DAL,BOS
+444,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,3,10,6,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,12,-127,22,BOS,DAL,BOS
+445,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,3,8,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,212,129,BOS,DAL,BOS
+446,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,3,8,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,201,11,BOS,DAL,BOS
+447,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,4,9,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,6,20,63,BOS,DAL,BOS
+448,2011-12,Regular Season,0021100474,"FEB 20, 2012",DAL vs. BOS,4,7,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-119,214,BOS,DAL,BOS
+449,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,1,9,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-51,184,LAL,DAL,LAL
+450,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,1,8,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-171,37,LAL,DAL,LAL
+451,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,1,8,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-169,83,LAL,DAL,LAL
+452,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,2,9,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,160,26,LAL,DAL,LAL
+453,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,2,8,24,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,11,99,50,LAL,DAL,LAL
+454,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,2,7,4,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,102,96,LAL,DAL,LAL
+455,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,2,0,39,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,11,-37,107,LAL,DAL,LAL
+456,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,2,0,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,21,121,179,LAL,DAL,LAL
+457,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,3,11,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,171,72,LAL,DAL,LAL
+458,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,3,10,5,Made Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,8,-54,69,LAL,DAL,LAL
+459,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,3,9,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-29,250,LAL,DAL,LAL
+460,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,3,8,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,51,249,LAL,DAL,LAL
+461,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,3,7,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-158,91,LAL,DAL,LAL
+462,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,3,6,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-139,211,LAL,DAL,LAL
+463,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,3,5,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-32,246,LAL,DAL,LAL
+464,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,3,3,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,26,254,LAL,DAL,LAL
+465,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,4,8,33,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,130,86,LAL,DAL,LAL
+466,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,4,6,57,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,16-24 ft.,17,50,172,LAL,DAL,LAL
+467,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,4,2,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,14,61,135,LAL,DAL,LAL
+468,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,4,1,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-87,157,LAL,DAL,LAL
+469,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,4,0,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-223,108,LAL,DAL,LAL
+470,2011-12,Regular Season,0021100497,"FEB 22, 2012",DAL vs. LAL,4,0,29,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,9,1,LAL,DAL,LAL
+471,2011-12,Regular Season,0021100509,"FEB 28, 2012",DAL vs. NJN,1,8,47,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,10,80,67,NJN,DAL,NJN
+472,2011-12,Regular Season,0021100509,"FEB 28, 2012",DAL vs. NJN,1,7,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,125,217,NJN,DAL,NJN
+473,2011-12,Regular Season,0021100509,"FEB 28, 2012",DAL vs. NJN,1,6,53,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,11,100,64,NJN,DAL,NJN
+474,2011-12,Regular Season,0021100509,"FEB 28, 2012",DAL vs. NJN,2,10,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,45,201,NJN,DAL,NJN
+475,2011-12,Regular Season,0021100509,"FEB 28, 2012",DAL vs. NJN,2,7,20,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,14,110,89,NJN,DAL,NJN
+476,2011-12,Regular Season,0021100509,"FEB 28, 2012",DAL vs. NJN,2,5,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,7,192,NJN,DAL,NJN
+477,2011-12,Regular Season,0021100509,"FEB 28, 2012",DAL vs. NJN,2,1,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,14,-79,121,NJN,DAL,NJN
+478,2011-12,Regular Season,0021100509,"FEB 28, 2012",DAL vs. NJN,3,10,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,179,170,NJN,DAL,NJN
+479,2011-12,Regular Season,0021100509,"FEB 28, 2012",DAL vs. NJN,3,9,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,105,239,NJN,DAL,NJN
+480,2011-12,Regular Season,0021100509,"FEB 28, 2012",DAL vs. NJN,3,8,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,2,201,NJN,DAL,NJN
+481,2011-12,Regular Season,0021100509,"FEB 28, 2012",DAL vs. NJN,3,7,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,105,175,NJN,DAL,NJN
+482,2011-12,Regular Season,0021100509,"FEB 28, 2012",DAL vs. NJN,3,5,45,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,24+ ft.,22,-226,28,NJN,DAL,NJN
+483,2011-12,Regular Season,0021100509,"FEB 28, 2012",DAL vs. NJN,3,5,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-147,63,NJN,DAL,NJN
+484,2011-12,Regular Season,0021100509,"FEB 28, 2012",DAL vs. NJN,4,9,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-139,56,NJN,DAL,NJN
+485,2011-12,Regular Season,0021100509,"FEB 28, 2012",DAL vs. NJN,4,9,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-157,26,NJN,DAL,NJN
+486,2011-12,Regular Season,0021100509,"FEB 28, 2012",DAL vs. NJN,4,7,33,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,2,0,NJN,DAL,NJN
+487,2011-12,Regular Season,0021100509,"FEB 28, 2012",DAL vs. NJN,4,7,3,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,3,-26,25,NJN,DAL,NJN
+488,2011-12,Regular Season,0021100509,"FEB 28, 2012",DAL vs. NJN,4,5,10,Missed Shot,Driving Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,9,-87,41,NJN,DAL,NJN
+489,2011-12,Regular Season,0021100509,"FEB 28, 2012",DAL vs. NJN,4,2,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-8,7,NJN,DAL,NJN
+490,2011-12,Regular Season,0021100518,"FEB 29, 2012",DAL @ MEM,1,0,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,10,102,20,MEM,MEM,DAL
+491,2011-12,Regular Season,0021100533,"MAR 02, 2012",DAL @ NOH,1,11,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,27,9,276,NOH,NOH,DAL
+492,2011-12,Regular Season,0021100533,"MAR 02, 2012",DAL @ NOH,1,9,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,22,-106,200,NOH,NOH,DAL
+493,2011-12,Regular Season,0021100533,"MAR 02, 2012",DAL @ NOH,1,9,21,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-19,257,NOH,NOH,DAL
+494,2011-12,Regular Season,0021100533,"MAR 02, 2012",DAL @ NOH,1,8,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-18,159,NOH,NOH,DAL
+495,2011-12,Regular Season,0021100533,"MAR 02, 2012",DAL @ NOH,2,10,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-149,0,NOH,NOH,DAL
+496,2011-12,Regular Season,0021100533,"MAR 02, 2012",DAL @ NOH,2,5,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-56,238,NOH,NOH,DAL
+497,2011-12,Regular Season,0021100533,"MAR 02, 2012",DAL @ NOH,3,11,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,127,53,NOH,NOH,DAL
+498,2011-12,Regular Season,0021100533,"MAR 02, 2012",DAL @ NOH,3,10,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,234,124,NOH,NOH,DAL
+499,2011-12,Regular Season,0021100533,"MAR 02, 2012",DAL @ NOH,3,9,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-49,247,NOH,NOH,DAL
+500,2011-12,Regular Season,0021100533,"MAR 02, 2012",DAL @ NOH,3,7,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,12,54,118,NOH,NOH,DAL
+501,2011-12,Regular Season,0021100533,"MAR 02, 2012",DAL @ NOH,3,3,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,144,15,NOH,NOH,DAL
+502,2011-12,Regular Season,0021100533,"MAR 02, 2012",DAL @ NOH,4,9,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-131,214,NOH,NOH,DAL
+503,2011-12,Regular Season,0021100533,"MAR 02, 2012",DAL @ NOH,4,8,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,141,102,NOH,NOH,DAL
+504,2011-12,Regular Season,0021100533,"MAR 02, 2012",DAL @ NOH,4,7,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,149,37,NOH,NOH,DAL
+505,2011-12,Regular Season,0021100533,"MAR 02, 2012",DAL @ NOH,4,5,0,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,-89,82,NOH,NOH,DAL
+506,2011-12,Regular Season,0021100533,"MAR 02, 2012",DAL @ NOH,4,3,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-119,83,NOH,NOH,DAL
+507,2011-12,Regular Season,0021100533,"MAR 02, 2012",DAL @ NOH,4,2,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,13,3,NOH,NOH,DAL
+508,2011-12,Regular Season,0021100533,"MAR 02, 2012",DAL @ NOH,4,1,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,-158,217,NOH,NOH,DAL
+509,2011-12,Regular Season,0021100533,"MAR 02, 2012",DAL @ NOH,4,0,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-35,252,NOH,NOH,DAL
+510,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,1,11,20,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,147,14,UTA,DAL,UTA
+511,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,1,9,25,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-112,31,UTA,DAL,UTA
+512,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,1,7,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-161,44,UTA,DAL,UTA
+513,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,1,3,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,23,133,197,UTA,DAL,UTA
+514,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,1,2,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,42,241,UTA,DAL,UTA
+515,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,1,1,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,102,179,UTA,DAL,UTA
+516,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,2,10,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,173,0,UTA,DAL,UTA
+517,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,2,8,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,182,159,UTA,DAL,UTA
+518,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,2,7,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,121,211,UTA,DAL,UTA
+519,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,2,7,12,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,23,0,UTA,DAL,UTA
+520,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,2,3,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,0,205,UTA,DAL,UTA
+521,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,2,2,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,69,178,UTA,DAL,UTA
+522,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,2,2,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,18,179,UTA,DAL,UTA
+523,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,2,1,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-82,227,UTA,DAL,UTA
+524,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,3,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,29,195,UTA,DAL,UTA
+525,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,3,8,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,-60,192,UTA,DAL,UTA
+526,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,3,7,29,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,225,97,UTA,DAL,UTA
+527,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,3,6,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,209,126,UTA,DAL,UTA
+528,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,3,6,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,165,181,UTA,DAL,UTA
+529,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,4,3,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-45,162,UTA,DAL,UTA
+530,2011-12,Regular Season,0021100544,"MAR 03, 2012",DAL vs. UTA,4,2,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,130,75,UTA,DAL,UTA
+531,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,1,10,19,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,12,-120,31,OKC,OKC,DAL
+532,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,1,9,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-106,52,OKC,OKC,DAL
+533,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,1,8,11,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,5,-51,0,OKC,OKC,DAL
+534,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,1,7,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-97,159,OKC,OKC,DAL
+535,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,1,7,3,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,10,-89,50,OKC,OKC,DAL
+536,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,2,9,49,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,-5,0,OKC,OKC,DAL
+537,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,2,8,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,29,239,OKC,OKC,DAL
+538,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,2,8,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-144,36,OKC,OKC,DAL
+539,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,2,7,26,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,9,-97,17,OKC,OKC,DAL
+540,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,2,4,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,127,-2,OKC,OKC,DAL
+541,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,2,4,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-43,179,OKC,OKC,DAL
+542,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,3,10,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,146,104,OKC,OKC,DAL
+543,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,3,10,0,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,-120,1,OKC,OKC,DAL
+544,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,3,8,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,130,6,OKC,OKC,DAL
+545,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,3,7,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,2,242,OKC,OKC,DAL
+546,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,3,4,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-90,131,OKC,OKC,DAL
+547,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,4,10,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-49,241,OKC,OKC,DAL
+548,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,4,6,12,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,7,-76,20,OKC,OKC,DAL
+549,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,4,4,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-5,244,OKC,OKC,DAL
+550,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,4,3,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-194,149,OKC,OKC,DAL
+551,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,4,2,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-41,241,OKC,OKC,DAL
+552,2011-12,Regular Season,0021100559,"MAR 05, 2012",DAL @ OKC,4,2,3,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-142,23,OKC,OKC,DAL
+553,2011-12,Regular Season,0021100568,"MAR 06, 2012",DAL vs. NYK,1,10,38,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-105,53,NYK,DAL,NYK
+554,2011-12,Regular Season,0021100568,"MAR 06, 2012",DAL vs. NYK,1,7,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,83,162,NYK,DAL,NYK
+555,2011-12,Regular Season,0021100568,"MAR 06, 2012",DAL vs. NYK,1,5,0,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,10,-37,101,NYK,DAL,NYK
+556,2011-12,Regular Season,0021100568,"MAR 06, 2012",DAL vs. NYK,1,3,38,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,8,1,88,NYK,DAL,NYK
+557,2011-12,Regular Season,0021100568,"MAR 06, 2012",DAL vs. NYK,2,7,57,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,118,77,NYK,DAL,NYK
+558,2011-12,Regular Season,0021100568,"MAR 06, 2012",DAL vs. NYK,2,5,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,2,7,NYK,DAL,NYK
+559,2011-12,Regular Season,0021100568,"MAR 06, 2012",DAL vs. NYK,2,2,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,13,-64,118,NYK,DAL,NYK
+560,2011-12,Regular Season,0021100568,"MAR 06, 2012",DAL vs. NYK,2,1,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,1,261,NYK,DAL,NYK
+561,2011-12,Regular Season,0021100568,"MAR 06, 2012",DAL vs. NYK,3,11,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,135,135,NYK,DAL,NYK
+562,2011-12,Regular Season,0021100568,"MAR 06, 2012",DAL vs. NYK,3,11,12,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,15,147,44,NYK,DAL,NYK
+563,2011-12,Regular Season,0021100568,"MAR 06, 2012",DAL vs. NYK,3,10,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,54,153,NYK,DAL,NYK
+564,2011-12,Regular Season,0021100568,"MAR 06, 2012",DAL vs. NYK,3,10,10,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,14,99,99,NYK,DAL,NYK
+565,2011-12,Regular Season,0021100568,"MAR 06, 2012",DAL vs. NYK,3,7,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-109,50,NYK,DAL,NYK
+566,2011-12,Regular Season,0021100568,"MAR 06, 2012",DAL vs. NYK,4,10,44,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,11,89,78,NYK,DAL,NYK
+567,2011-12,Regular Season,0021100568,"MAR 06, 2012",DAL vs. NYK,4,8,9,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,136,22,NYK,DAL,NYK
+568,2011-12,Regular Season,0021100568,"MAR 06, 2012",DAL vs. NYK,4,4,34,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,14,118,80,NYK,DAL,NYK
+569,2011-12,Regular Season,0021100568,"MAR 06, 2012",DAL vs. NYK,4,2,28,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,5,-57,17,NYK,DAL,NYK
+570,2011-12,Regular Season,0021100568,"MAR 06, 2012",DAL vs. NYK,4,0,32,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,24,176,NYK,DAL,NYK
+571,2011-12,Regular Season,0021100583,"MAR 08, 2012",DAL @ PHX,1,9,43,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,163,3,PHX,PHX,DAL
+572,2011-12,Regular Season,0021100583,"MAR 08, 2012",DAL @ PHX,1,9,11,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,11,83,78,PHX,PHX,DAL
+573,2011-12,Regular Season,0021100583,"MAR 08, 2012",DAL @ PHX,1,7,17,Made Shot,Fadeaway Bank shot,2PT Field Goal,Mid-Range,8-16 ft.,9,-86,39,PHX,PHX,DAL
+574,2011-12,Regular Season,0021100583,"MAR 08, 2012",DAL @ PHX,1,6,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-37,254,PHX,PHX,DAL
+575,2011-12,Regular Season,0021100583,"MAR 08, 2012",DAL @ PHX,2,6,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,155,107,PHX,PHX,DAL
+576,2011-12,Regular Season,0021100583,"MAR 08, 2012",DAL @ PHX,3,9,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-11,0,PHX,PHX,DAL
+577,2011-12,Regular Season,0021100583,"MAR 08, 2012",DAL @ PHX,3,8,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,22,-169,148,PHX,PHX,DAL
+578,2011-12,Regular Season,0021100583,"MAR 08, 2012",DAL @ PHX,3,7,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-196,156,PHX,PHX,DAL
+579,2011-12,Regular Season,0021100583,"MAR 08, 2012",DAL @ PHX,3,0,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,10,-93,39,PHX,PHX,DAL
+580,2011-12,Regular Season,0021100583,"MAR 08, 2012",DAL @ PHX,4,11,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,5,51,3,PHX,PHX,DAL
+581,2011-12,Regular Season,0021100583,"MAR 08, 2012",DAL @ PHX,4,5,47,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,11,94,71,PHX,PHX,DAL
+582,2011-12,Regular Season,0021100583,"MAR 08, 2012",DAL @ PHX,4,3,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,11,111,14,PHX,PHX,DAL
+583,2011-12,Regular Season,0021100583,"MAR 08, 2012",DAL @ PHX,4,2,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,5,-27,48,PHX,PHX,DAL
+584,2011-12,Regular Season,0021100583,"MAR 08, 2012",DAL @ PHX,4,1,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,135,20,PHX,PHX,DAL
+585,2011-12,Regular Season,0021100583,"MAR 08, 2012",DAL @ PHX,4,0,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-2,14,PHX,PHX,DAL
+586,2011-12,Regular Season,0021100593,"MAR 09, 2012",DAL @ SAC,1,11,16,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,3,-8,36,SAC,SAC,DAL
+587,2011-12,Regular Season,0021100593,"MAR 09, 2012",DAL @ SAC,1,10,14,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,17,15,SAC,SAC,DAL
+588,2011-12,Regular Season,0021100593,"MAR 09, 2012",DAL @ SAC,2,9,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,-59,195,SAC,SAC,DAL
+589,2011-12,Regular Season,0021100593,"MAR 09, 2012",DAL @ SAC,2,8,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,73,187,SAC,SAC,DAL
+590,2011-12,Regular Season,0021100593,"MAR 09, 2012",DAL @ SAC,2,6,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-7,162,SAC,SAC,DAL
+591,2011-12,Regular Season,0021100593,"MAR 09, 2012",DAL @ SAC,2,1,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,165,26,SAC,SAC,DAL
+592,2011-12,Regular Season,0021100593,"MAR 09, 2012",DAL @ SAC,2,0,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,144,123,SAC,SAC,DAL
+593,2011-12,Regular Season,0021100593,"MAR 09, 2012",DAL @ SAC,3,11,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,91,170,SAC,SAC,DAL
+594,2011-12,Regular Season,0021100593,"MAR 09, 2012",DAL @ SAC,3,10,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,2,198,SAC,SAC,DAL
+595,2011-12,Regular Season,0021100593,"MAR 09, 2012",DAL @ SAC,3,7,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,10,-70,72,SAC,SAC,DAL
+596,2011-12,Regular Season,0021100593,"MAR 09, 2012",DAL @ SAC,3,7,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-142,28,SAC,SAC,DAL
+597,2011-12,Regular Season,0021100593,"MAR 09, 2012",DAL @ SAC,4,10,15,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,133,56,SAC,SAC,DAL
+598,2011-12,Regular Season,0021100593,"MAR 09, 2012",DAL @ SAC,4,9,39,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,5,-45,28,SAC,SAC,DAL
+599,2011-12,Regular Season,0021100602,"MAR 10, 2012",DAL @ GSW,1,9,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,9,88,33,GSW,GSW,DAL
+600,2011-12,Regular Season,0021100602,"MAR 10, 2012",DAL @ GSW,1,8,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,7,-52,56,GSW,GSW,DAL
+601,2011-12,Regular Season,0021100602,"MAR 10, 2012",DAL @ GSW,1,8,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-116,148,GSW,GSW,DAL
+602,2011-12,Regular Season,0021100602,"MAR 10, 2012",DAL @ GSW,1,6,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,4,-41,28,GSW,GSW,DAL
+603,2011-12,Regular Season,0021100602,"MAR 10, 2012",DAL @ GSW,2,11,48,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,12,89,85,GSW,GSW,DAL
+604,2011-12,Regular Season,0021100602,"MAR 10, 2012",DAL @ GSW,2,10,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,78,148,GSW,GSW,DAL
+605,2011-12,Regular Season,0021100602,"MAR 10, 2012",DAL @ GSW,2,3,26,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,8-16 ft.,11,105,36,GSW,GSW,DAL
+606,2011-12,Regular Season,0021100602,"MAR 10, 2012",DAL @ GSW,2,1,48,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,24+ ft.,27,-130,238,GSW,GSW,DAL
+607,2011-12,Regular Season,0021100602,"MAR 10, 2012",DAL @ GSW,3,11,42,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,11,-70,94,GSW,GSW,DAL
+608,2011-12,Regular Season,0021100602,"MAR 10, 2012",DAL @ GSW,3,10,57,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,12,-92,88,GSW,GSW,DAL
+609,2011-12,Regular Season,0021100602,"MAR 10, 2012",DAL @ GSW,3,7,27,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,9,0,94,GSW,GSW,DAL
+610,2011-12,Regular Season,0021100602,"MAR 10, 2012",DAL @ GSW,3,4,59,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,8,51,72,GSW,GSW,DAL
+611,2011-12,Regular Season,0021100602,"MAR 10, 2012",DAL @ GSW,4,10,2,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-125,50,GSW,GSW,DAL
+612,2011-12,Regular Season,0021100602,"MAR 10, 2012",DAL @ GSW,4,9,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,92,156,GSW,GSW,DAL
+613,2011-12,Regular Season,0021100602,"MAR 10, 2012",DAL @ GSW,4,7,56,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-133,15,GSW,GSW,DAL
+614,2011-12,Regular Season,0021100602,"MAR 10, 2012",DAL @ GSW,4,6,57,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,108,104,GSW,GSW,DAL
+615,2011-12,Regular Season,0021100623,"MAR 13, 2012",DAL vs. WAS,1,11,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,48,187,WAS,DAL,WAS
+616,2011-12,Regular Season,0021100623,"MAR 13, 2012",DAL vs. WAS,1,10,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,110,220,WAS,DAL,WAS
+617,2011-12,Regular Season,0021100623,"MAR 13, 2012",DAL vs. WAS,1,6,20,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,129,28,WAS,DAL,WAS
+618,2011-12,Regular Season,0021100623,"MAR 13, 2012",DAL vs. WAS,2,10,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-108,222,WAS,DAL,WAS
+619,2011-12,Regular Season,0021100623,"MAR 13, 2012",DAL vs. WAS,2,9,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-152,14,WAS,DAL,WAS
+620,2011-12,Regular Season,0021100623,"MAR 13, 2012",DAL vs. WAS,2,5,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-155,25,WAS,DAL,WAS
+621,2011-12,Regular Season,0021100623,"MAR 13, 2012",DAL vs. WAS,2,3,13,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-149,12,WAS,DAL,WAS
+622,2011-12,Regular Season,0021100623,"MAR 13, 2012",DAL vs. WAS,2,2,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,4,242,WAS,DAL,WAS
+623,2011-12,Regular Season,0021100623,"MAR 13, 2012",DAL vs. WAS,2,0,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-136,105,WAS,DAL,WAS
+624,2011-12,Regular Season,0021100623,"MAR 13, 2012",DAL vs. WAS,3,11,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-122,216,WAS,DAL,WAS
+625,2011-12,Regular Season,0021100623,"MAR 13, 2012",DAL vs. WAS,3,9,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,141,45,WAS,DAL,WAS
+626,2011-12,Regular Season,0021100623,"MAR 13, 2012",DAL vs. WAS,3,8,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,32,244,WAS,DAL,WAS
+627,2011-12,Regular Season,0021100623,"MAR 13, 2012",DAL vs. WAS,3,8,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-141,-5,WAS,DAL,WAS
+628,2011-12,Regular Season,0021100623,"MAR 13, 2012",DAL vs. WAS,4,6,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,181,88,WAS,DAL,WAS
+629,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,1,11,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-149,132,CHA,DAL,CHA
+630,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,1,10,27,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,15,4,CHA,DAL,CHA
+631,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,1,9,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-139,44,CHA,DAL,CHA
+632,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,1,8,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,173,82,CHA,DAL,CHA
+633,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,1,6,52,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,8,72,36,CHA,DAL,CHA
+634,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,1,0,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,116,71,CHA,DAL,CHA
+635,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,2,10,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,127,108,CHA,DAL,CHA
+636,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,2,9,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,100,143,CHA,DAL,CHA
+637,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,2,5,42,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-152,6,CHA,DAL,CHA
+638,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,2,1,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-117,61,CHA,DAL,CHA
+639,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,2,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-157,25,CHA,DAL,CHA
+640,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,3,11,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-21,244,CHA,DAL,CHA
+641,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,3,9,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,32,239,CHA,DAL,CHA
+642,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,3,6,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,220,118,CHA,DAL,CHA
+643,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,3,5,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,222,116,CHA,DAL,CHA
+644,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,3,5,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,99,242,CHA,DAL,CHA
+645,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,3,4,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,6,148,CHA,DAL,CHA
+646,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,4,8,4,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,14,144,30,CHA,DAL,CHA
+647,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,4,6,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,17,241,CHA,DAL,CHA
+648,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,4,3,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,40,260,CHA,DAL,CHA
+649,2011-12,Regular Season,0021100639,"MAR 15, 2012",DAL vs. CHA,4,2,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,18,156,CHA,DAL,CHA
+650,2011-12,Regular Season,0021100659,"MAR 17, 2012",DAL vs. SAS,1,9,12,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,9,0,SAS,DAL,SAS
+651,2011-12,Regular Season,0021100659,"MAR 17, 2012",DAL vs. SAS,1,8,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-130,214,SAS,DAL,SAS
+652,2011-12,Regular Season,0021100659,"MAR 17, 2012",DAL vs. SAS,1,7,41,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,146,86,SAS,DAL,SAS
+653,2011-12,Regular Season,0021100659,"MAR 17, 2012",DAL vs. SAS,1,5,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-149,71,SAS,DAL,SAS
+654,2011-12,Regular Season,0021100659,"MAR 17, 2012",DAL vs. SAS,1,5,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,9,184,SAS,DAL,SAS
+655,2011-12,Regular Season,0021100659,"MAR 17, 2012",DAL vs. SAS,2,10,58,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-146,39,SAS,DAL,SAS
+656,2011-12,Regular Season,0021100659,"MAR 17, 2012",DAL vs. SAS,2,7,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,162,3,SAS,DAL,SAS
+657,2011-12,Regular Season,0021100659,"MAR 17, 2012",DAL vs. SAS,2,7,24,Missed Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,11,73,83,SAS,DAL,SAS
+658,2011-12,Regular Season,0021100659,"MAR 17, 2012",DAL vs. SAS,2,6,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,21,149,153,SAS,DAL,SAS
+659,2011-12,Regular Season,0021100659,"MAR 17, 2012",DAL vs. SAS,2,5,27,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-109,44,SAS,DAL,SAS
+660,2011-12,Regular Season,0021100659,"MAR 17, 2012",DAL vs. SAS,2,4,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,138,115,SAS,DAL,SAS
+661,2011-12,Regular Season,0021100659,"MAR 17, 2012",DAL vs. SAS,2,4,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,136,88,SAS,DAL,SAS
+662,2011-12,Regular Season,0021100659,"MAR 17, 2012",DAL vs. SAS,2,2,56,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,-7,0,SAS,DAL,SAS
+663,2011-12,Regular Season,0021100659,"MAR 17, 2012",DAL vs. SAS,2,0,11,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,12,-122,25,SAS,DAL,SAS
+664,2011-12,Regular Season,0021100659,"MAR 17, 2012",DAL vs. SAS,3,9,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,77,233,SAS,DAL,SAS
+665,2011-12,Regular Season,0021100659,"MAR 17, 2012",DAL vs. SAS,3,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,-29,201,SAS,DAL,SAS
+666,2011-12,Regular Season,0021100659,"MAR 17, 2012",DAL vs. SAS,4,8,48,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,155,15,SAS,DAL,SAS
+667,2011-12,Regular Season,0021100659,"MAR 17, 2012",DAL vs. SAS,4,7,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-95,230,SAS,DAL,SAS
+668,2011-12,Regular Season,0021100659,"MAR 17, 2012",DAL vs. SAS,4,1,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,173,23,SAS,DAL,SAS
+669,2011-12,Regular Season,0021100674,"MAR 19, 2012",DAL @ DEN,1,9,45,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,5,2,53,DEN,DEN,DAL
+670,2011-12,Regular Season,0021100674,"MAR 19, 2012",DAL @ DEN,1,9,17,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,16-24 ft.,16,116,118,DEN,DEN,DAL
+671,2011-12,Regular Season,0021100674,"MAR 19, 2012",DAL @ DEN,1,7,26,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,16-24 ft.,17,163,50,DEN,DEN,DAL
+672,2011-12,Regular Season,0021100674,"MAR 19, 2012",DAL @ DEN,1,6,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-142,86,DEN,DEN,DAL
+673,2011-12,Regular Season,0021100674,"MAR 19, 2012",DAL @ DEN,1,1,30,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,16-24 ft.,16,111,124,DEN,DEN,DAL
+674,2011-12,Regular Season,0021100674,"MAR 19, 2012",DAL @ DEN,2,11,0,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,14,105,99,DEN,DEN,DAL
+675,2011-12,Regular Season,0021100674,"MAR 19, 2012",DAL @ DEN,2,8,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,-4,9,DEN,DEN,DAL
+676,2011-12,Regular Season,0021100674,"MAR 19, 2012",DAL @ DEN,2,1,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,36,257,DEN,DEN,DAL
+677,2011-12,Regular Season,0021100674,"MAR 19, 2012",DAL @ DEN,2,1,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,54,160,DEN,DEN,DAL
+678,2011-12,Regular Season,0021100674,"MAR 19, 2012",DAL @ DEN,2,0,56,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,118,75,DEN,DEN,DAL
+679,2011-12,Regular Season,0021100674,"MAR 19, 2012",DAL @ DEN,2,0,2,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,162,60,DEN,DEN,DAL
+680,2011-12,Regular Season,0021100674,"MAR 19, 2012",DAL @ DEN,3,11,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,13,250,DEN,DEN,DAL
+681,2011-12,Regular Season,0021100674,"MAR 19, 2012",DAL @ DEN,3,9,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,-120,233,DEN,DEN,DAL
+682,2011-12,Regular Season,0021100674,"MAR 19, 2012",DAL @ DEN,3,6,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-174,17,DEN,DEN,DAL
+683,2011-12,Regular Season,0021100674,"MAR 19, 2012",DAL @ DEN,3,6,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-179,0,DEN,DEN,DAL
+684,2011-12,Regular Season,0021100674,"MAR 19, 2012",DAL @ DEN,3,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,7,269,DEN,DEN,DAL
+685,2011-12,Regular Season,0021100674,"MAR 19, 2012",DAL @ DEN,3,0,0,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,10,-32,96,DEN,DEN,DAL
+686,2011-12,Regular Season,0021100674,"MAR 19, 2012",DAL @ DEN,4,8,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,7,22,DEN,DEN,DAL
+687,2011-12,Regular Season,0021100674,"MAR 19, 2012",DAL @ DEN,4,8,8,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,16-24 ft.,16,136,85,DEN,DEN,DAL
+688,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,1,11,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-169,0,LAL,DAL,LAL
+689,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,1,10,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-67,238,LAL,DAL,LAL
+690,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,1,9,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-134,140,LAL,DAL,LAL
+691,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,1,8,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-11,3,LAL,DAL,LAL
+692,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,1,6,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-93,162,LAL,DAL,LAL
+693,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,1,6,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,177,14,LAL,DAL,LAL
+694,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,1,1,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,144,15,LAL,DAL,LAL
+695,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,2,10,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,-5,6,LAL,DAL,LAL
+696,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,2,10,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,103,160,LAL,DAL,LAL
+697,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,2,8,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-32,195,LAL,DAL,LAL
+698,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,2,7,42,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-112,23,LAL,DAL,LAL
+699,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,2,5,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-168,179,LAL,DAL,LAL
+700,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,3,10,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,168,176,LAL,DAL,LAL
+701,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,3,10,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-141,203,LAL,DAL,LAL
+702,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,3,4,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,170,0,LAL,DAL,LAL
+703,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,4,10,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,157,113,LAL,DAL,LAL
+704,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,4,8,28,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,24+ ft.,22,-221,14,LAL,DAL,LAL
+705,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,4,7,48,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,17,-2,LAL,DAL,LAL
+706,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,4,6,24,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,10,0,LAL,DAL,LAL
+707,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,4,5,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,10,0,LAL,DAL,LAL
+708,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,4,5,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,24,3,LAL,DAL,LAL
+709,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,4,5,7,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,7,11,LAL,DAL,LAL
+710,2011-12,Regular Season,0021100692,"MAR 21, 2012",DAL vs. LAL,4,4,26,Missed Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,5,36,37,LAL,DAL,LAL
+711,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,1,7,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,140,1,SAS,SAS,DAL
+712,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,1,6,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,10,-105,6,SAS,SAS,DAL
+713,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,1,6,28,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,4,28,41,SAS,SAS,DAL
+714,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,1,5,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,159,1,SAS,SAS,DAL
+715,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,1,0,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,155,-14,SAS,SAS,DAL
+716,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,2,9,44,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,10,86,60,SAS,SAS,DAL
+717,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,2,9,1,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,10,108,-10,SAS,SAS,DAL
+718,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,2,8,30,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,8-16 ft.,10,103,34,SAS,SAS,DAL
+719,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,2,7,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,4,28,30,SAS,SAS,DAL
+720,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,2,4,40,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,113,53,SAS,SAS,DAL
+721,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,2,2,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-109,80,SAS,SAS,DAL
+722,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,2,0,1,Missed Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,3,-32,15,SAS,SAS,DAL
+723,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,3,11,8,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-150,-6,SAS,SAS,DAL
+724,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,3,8,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,6,244,SAS,SAS,DAL
+725,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,3,7,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-84,148,SAS,SAS,DAL
+726,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,3,6,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,147,112,SAS,SAS,DAL
+727,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,3,1,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,151,118,SAS,SAS,DAL
+728,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,4,10,16,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-128,26,SAS,SAS,DAL
+729,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,4,9,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,8,45,71,SAS,SAS,DAL
+730,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,4,7,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-125,219,SAS,SAS,DAL
+731,2011-12,Regular Season,0021100707,"MAR 23, 2012",DAL @ SAS,4,3,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,4,6,47,SAS,SAS,DAL
+732,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,1,10,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,151,60,HOU,HOU,DAL
+733,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,1,6,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-93,127,HOU,HOU,DAL
+734,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,1,2,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-59,236,HOU,HOU,DAL
+735,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,1,1,25,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,95,138,HOU,HOU,DAL
+736,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,1,0,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-90,99,HOU,HOU,DAL
+737,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,2,11,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-168,176,HOU,HOU,DAL
+738,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,2,10,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,146,205,HOU,HOU,DAL
+739,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,2,7,14,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,103,132,HOU,HOU,DAL
+740,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,3,11,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-130,211,HOU,HOU,DAL
+741,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,3,10,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,80,149,HOU,HOU,DAL
+742,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,3,6,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,11,94,69,HOU,HOU,DAL
+743,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,3,6,27,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,106,72,HOU,HOU,DAL
+744,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,3,5,45,Made Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,8-16 ft.,11,88,66,HOU,HOU,DAL
+745,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,3,4,59,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-144,12,HOU,HOU,DAL
+746,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,3,4,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,28,242,HOU,HOU,DAL
+747,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,4,11,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,21,-21,216,HOU,HOU,DAL
+748,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,4,8,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,91,143,HOU,HOU,DAL
+749,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,4,6,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,2,252,HOU,HOU,DAL
+750,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,4,3,49,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,11,18,113,HOU,HOU,DAL
+751,2011-12,Regular Season,0021100716,"MAR 24, 2012",DAL @ HOU,4,3,12,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,9,-97,15,HOU,HOU,DAL
+752,2011-12,Regular Season,0021100739,"MAR 27, 2012",DAL vs. HOU,1,8,35,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,14,51,140,HOU,DAL,HOU
+753,2011-12,Regular Season,0021100739,"MAR 27, 2012",DAL vs. HOU,1,7,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-136,123,HOU,DAL,HOU
+754,2011-12,Regular Season,0021100739,"MAR 27, 2012",DAL vs. HOU,1,5,28,Missed Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,15,73,137,HOU,DAL,HOU
+755,2011-12,Regular Season,0021100739,"MAR 27, 2012",DAL vs. HOU,2,9,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,141,20,HOU,DAL,HOU
+756,2011-12,Regular Season,0021100739,"MAR 27, 2012",DAL vs. HOU,2,6,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-147,14,HOU,DAL,HOU
+757,2011-12,Regular Season,0021100739,"MAR 27, 2012",DAL vs. HOU,2,3,53,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,8,-70,41,HOU,DAL,HOU
+758,2011-12,Regular Season,0021100739,"MAR 27, 2012",DAL vs. HOU,2,2,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,130,206,HOU,DAL,HOU
+759,2011-12,Regular Season,0021100739,"MAR 27, 2012",DAL vs. HOU,2,0,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,6,4,HOU,DAL,HOU
+760,2011-12,Regular Season,0021100739,"MAR 27, 2012",DAL vs. HOU,3,11,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,119,164,HOU,DAL,HOU
+761,2011-12,Regular Season,0021100739,"MAR 27, 2012",DAL vs. HOU,3,8,48,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-116,22,HOU,DAL,HOU
+762,2011-12,Regular Season,0021100739,"MAR 27, 2012",DAL vs. HOU,3,8,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,7,260,HOU,DAL,HOU
+763,2011-12,Regular Season,0021100739,"MAR 27, 2012",DAL vs. HOU,3,4,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,108,138,HOU,DAL,HOU
+764,2011-12,Regular Season,0021100739,"MAR 27, 2012",DAL vs. HOU,3,1,51,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,14,105,105,HOU,DAL,HOU
+765,2011-12,Regular Season,0021100739,"MAR 27, 2012",DAL vs. HOU,4,11,43,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,10,-100,42,HOU,DAL,HOU
+766,2011-12,Regular Season,0021100739,"MAR 27, 2012",DAL vs. HOU,4,9,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-160,187,HOU,DAL,HOU
+767,2011-12,Regular Season,0021100739,"MAR 27, 2012",DAL vs. HOU,4,2,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,1,145,HOU,DAL,HOU
+768,2011-12,Regular Season,0021100739,"MAR 27, 2012",DAL vs. HOU,4,0,19,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,144,108,HOU,DAL,HOU
+769,2011-12,Regular Season,0021100754,"MAR 29, 2012",DAL @ MIA,1,10,30,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,125,11,MIA,MIA,DAL
+770,2011-12,Regular Season,0021100754,"MAR 29, 2012",DAL @ MIA,1,9,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,100,142,MIA,MIA,DAL
+771,2011-12,Regular Season,0021100754,"MAR 29, 2012",DAL @ MIA,1,6,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,1,167,MIA,MIA,DAL
+772,2011-12,Regular Season,0021100754,"MAR 29, 2012",DAL @ MIA,1,6,28,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-158,7,MIA,MIA,DAL
+773,2011-12,Regular Season,0021100754,"MAR 29, 2012",DAL @ MIA,2,6,56,Made Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-108,31,MIA,MIA,DAL
+774,2011-12,Regular Season,0021100754,"MAR 29, 2012",DAL @ MIA,2,5,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,14,-56,131,MIA,MIA,DAL
+775,2011-12,Regular Season,0021100754,"MAR 29, 2012",DAL @ MIA,2,4,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,-4,9,MIA,MIA,DAL
+776,2011-12,Regular Season,0021100754,"MAR 29, 2012",DAL @ MIA,2,3,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,69,167,MIA,MIA,DAL
+777,2011-12,Regular Season,0021100754,"MAR 29, 2012",DAL @ MIA,2,3,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-7,17,MIA,MIA,DAL
+778,2011-12,Regular Season,0021100754,"MAR 29, 2012",DAL @ MIA,2,1,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-150,4,MIA,MIA,DAL
+779,2011-12,Regular Season,0021100754,"MAR 29, 2012",DAL @ MIA,3,11,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-82,134,MIA,MIA,DAL
+780,2011-12,Regular Season,0021100754,"MAR 29, 2012",DAL @ MIA,3,9,37,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-141,45,MIA,MIA,DAL
+781,2011-12,Regular Season,0021100754,"MAR 29, 2012",DAL @ MIA,3,7,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,129,214,MIA,MIA,DAL
+782,2011-12,Regular Season,0021100754,"MAR 29, 2012",DAL @ MIA,3,7,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,9,15,MIA,MIA,DAL
+783,2011-12,Regular Season,0021100754,"MAR 29, 2012",DAL @ MIA,4,11,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,124,30,MIA,MIA,DAL
+784,2011-12,Regular Season,0021100754,"MAR 29, 2012",DAL @ MIA,4,10,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,3,18,28,MIA,MIA,DAL
+785,2011-12,Regular Season,0021100754,"MAR 29, 2012",DAL @ MIA,4,10,5,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,130,50,MIA,MIA,DAL
+786,2011-12,Regular Season,0021100754,"MAR 29, 2012",DAL @ MIA,4,9,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-127,30,MIA,MIA,DAL
+787,2011-12,Regular Season,0021100754,"MAR 29, 2012",DAL @ MIA,4,6,39,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-136,20,MIA,MIA,DAL
+788,2011-12,Regular Season,0021100762,"MAR 30, 2012",DAL @ ORL,1,10,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,21,103,186,ORL,ORL,DAL
+789,2011-12,Regular Season,0021100762,"MAR 30, 2012",DAL @ ORL,1,10,19,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-7,11,ORL,ORL,DAL
+790,2011-12,Regular Season,0021100762,"MAR 30, 2012",DAL @ ORL,1,9,59,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,11,88,69,ORL,ORL,DAL
+791,2011-12,Regular Season,0021100762,"MAR 30, 2012",DAL @ ORL,1,9,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,171,82,ORL,ORL,DAL
+792,2011-12,Regular Season,0021100762,"MAR 30, 2012",DAL @ ORL,1,5,38,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-111,91,ORL,ORL,DAL
+793,2011-12,Regular Season,0021100762,"MAR 30, 2012",DAL @ ORL,2,10,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,9,252,ORL,ORL,DAL
+794,2011-12,Regular Season,0021100762,"MAR 30, 2012",DAL @ ORL,2,9,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-166,194,ORL,ORL,DAL
+795,2011-12,Regular Season,0021100762,"MAR 30, 2012",DAL @ ORL,2,8,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,4,15,ORL,ORL,DAL
+796,2011-12,Regular Season,0021100762,"MAR 30, 2012",DAL @ ORL,2,6,22,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,-2,22,ORL,ORL,DAL
+797,2011-12,Regular Season,0021100762,"MAR 30, 2012",DAL @ ORL,2,4,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,179,178,ORL,ORL,DAL
+798,2011-12,Regular Season,0021100762,"MAR 30, 2012",DAL @ ORL,2,1,11,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,-7,22,ORL,ORL,DAL
+799,2011-12,Regular Season,0021100762,"MAR 30, 2012",DAL @ ORL,3,9,36,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-103,56,ORL,ORL,DAL
+800,2011-12,Regular Season,0021100762,"MAR 30, 2012",DAL @ ORL,3,9,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,48,151,ORL,ORL,DAL
+801,2011-12,Regular Season,0021100762,"MAR 30, 2012",DAL @ ORL,3,7,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,99,173,ORL,ORL,DAL
+802,2011-12,Regular Season,0021100762,"MAR 30, 2012",DAL @ ORL,4,8,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,102,140,ORL,ORL,DAL
+803,2011-12,Regular Season,0021100762,"MAR 30, 2012",DAL @ ORL,4,5,12,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,103,67,ORL,ORL,DAL
+804,2011-12,Regular Season,0021100762,"MAR 30, 2012",DAL @ ORL,4,0,34,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,89,99,ORL,ORL,DAL
+805,2011-12,Regular Season,0021100762,"MAR 30, 2012",DAL @ ORL,4,0,5,Made Shot,Fadeaway Bank shot,2PT Field Goal,Mid-Range,8-16 ft.,14,118,86,ORL,ORL,DAL
+806,2011-12,Regular Season,0021100788,"APR 02, 2012",DAL vs. LAC,1,10,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-112,162,LAC,DAL,LAC
+807,2011-12,Regular Season,0021100788,"APR 02, 2012",DAL vs. LAC,1,8,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,81,168,LAC,DAL,LAC
+808,2011-12,Regular Season,0021100788,"APR 02, 2012",DAL vs. LAC,1,7,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,165,11,LAC,DAL,LAC
+809,2011-12,Regular Season,0021100788,"APR 02, 2012",DAL vs. LAC,1,6,15,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,0,14,LAC,DAL,LAC
+810,2011-12,Regular Season,0021100788,"APR 02, 2012",DAL vs. LAC,2,10,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,140,23,LAC,DAL,LAC
+811,2011-12,Regular Season,0021100788,"APR 02, 2012",DAL vs. LAC,2,10,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,160,6,LAC,DAL,LAC
+812,2011-12,Regular Season,0021100788,"APR 02, 2012",DAL vs. LAC,2,4,52,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,9,75,61,LAC,DAL,LAC
+813,2011-12,Regular Season,0021100788,"APR 02, 2012",DAL vs. LAC,2,0,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,26,244,LAC,DAL,LAC
+814,2011-12,Regular Season,0021100788,"APR 02, 2012",DAL vs. LAC,3,7,28,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,132,50,LAC,DAL,LAC
+815,2011-12,Regular Season,0021100788,"APR 02, 2012",DAL vs. LAC,3,7,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-97,227,LAC,DAL,LAC
+816,2011-12,Regular Season,0021100788,"APR 02, 2012",DAL vs. LAC,4,11,26,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,119,42,LAC,DAL,LAC
+817,2011-12,Regular Season,0021100788,"APR 02, 2012",DAL vs. LAC,4,8,1,Missed Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,3,-29,22,LAC,DAL,LAC
+818,2011-12,Regular Season,0021100788,"APR 02, 2012",DAL vs. LAC,4,6,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,155,99,LAC,DAL,LAC
+819,2011-12,Regular Season,0021100788,"APR 02, 2012",DAL vs. LAC,4,4,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,162,104,LAC,DAL,LAC
+820,2011-12,Regular Season,0021100807,"APR 04, 2012",DAL vs. MEM,1,11,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-114,153,MEM,DAL,MEM
+821,2011-12,Regular Season,0021100807,"APR 04, 2012",DAL vs. MEM,1,9,42,Missed Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,3,32,7,MEM,DAL,MEM
+822,2011-12,Regular Season,0021100807,"APR 04, 2012",DAL vs. MEM,1,8,27,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,15,108,107,MEM,DAL,MEM
+823,2011-12,Regular Season,0021100807,"APR 04, 2012",DAL vs. MEM,1,7,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,9,89,42,MEM,DAL,MEM
+824,2011-12,Regular Season,0021100807,"APR 04, 2012",DAL vs. MEM,2,10,7,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,5,-15,50,MEM,DAL,MEM
+825,2011-12,Regular Season,0021100807,"APR 04, 2012",DAL vs. MEM,2,9,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,-87,187,MEM,DAL,MEM
+826,2011-12,Regular Season,0021100807,"APR 04, 2012",DAL vs. MEM,2,5,46,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-19,0,MEM,DAL,MEM
+827,2011-12,Regular Season,0021100807,"APR 04, 2012",DAL vs. MEM,2,1,7,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,15,0,MEM,DAL,MEM
+828,2011-12,Regular Season,0021100807,"APR 04, 2012",DAL vs. MEM,2,0,41,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,24+ ft.,24,124,209,MEM,DAL,MEM
+829,2011-12,Regular Season,0021100807,"APR 04, 2012",DAL vs. MEM,2,0,10,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,13,22,MEM,DAL,MEM
+830,2011-12,Regular Season,0021100807,"APR 04, 2012",DAL vs. MEM,3,11,3,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,45,154,MEM,DAL,MEM
+831,2011-12,Regular Season,0021100807,"APR 04, 2012",DAL vs. MEM,3,8,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,195,11,MEM,DAL,MEM
+832,2011-12,Regular Season,0021100807,"APR 04, 2012",DAL vs. MEM,3,8,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,92,102,MEM,DAL,MEM
+833,2011-12,Regular Season,0021100807,"APR 04, 2012",DAL vs. MEM,3,6,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-26,187,MEM,DAL,MEM
+834,2011-12,Regular Season,0021100807,"APR 04, 2012",DAL vs. MEM,3,1,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,173,115,MEM,DAL,MEM
+835,2011-12,Regular Season,0021100807,"APR 04, 2012",DAL vs. MEM,4,11,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,5,51,19,MEM,DAL,MEM
+836,2011-12,Regular Season,0021100807,"APR 04, 2012",DAL vs. MEM,4,5,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,51,194,MEM,DAL,MEM
+837,2011-12,Regular Season,0021100807,"APR 04, 2012",DAL vs. MEM,4,3,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-8,9,MEM,DAL,MEM
+838,2011-12,Regular Season,0021100821,"APR 06, 2012",DAL vs. POR,1,10,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,-2,4,POR,DAL,POR
+839,2011-12,Regular Season,0021100821,"APR 06, 2012",DAL vs. POR,1,9,24,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,13,99,89,POR,DAL,POR
+840,2011-12,Regular Season,0021100821,"APR 06, 2012",DAL vs. POR,1,8,20,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-100,96,POR,DAL,POR
+841,2011-12,Regular Season,0021100821,"APR 06, 2012",DAL vs. POR,1,7,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,110,219,POR,DAL,POR
+842,2011-12,Regular Season,0021100821,"APR 06, 2012",DAL vs. POR,2,8,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-157,33,POR,DAL,POR
+843,2011-12,Regular Season,0021100821,"APR 06, 2012",DAL vs. POR,3,11,9,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,13,132,28,POR,DAL,POR
+844,2011-12,Regular Season,0021100821,"APR 06, 2012",DAL vs. POR,3,9,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,136,209,POR,DAL,POR
+845,2011-12,Regular Season,0021100821,"APR 06, 2012",DAL vs. POR,3,1,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,157,12,POR,DAL,POR
+846,2011-12,Regular Season,0021100821,"APR 06, 2012",DAL vs. POR,3,0,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-11,247,POR,DAL,POR
+847,2011-12,Regular Season,0021100821,"APR 06, 2012",DAL vs. POR,4,11,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,151,127,POR,DAL,POR
+848,2011-12,Regular Season,0021100821,"APR 06, 2012",DAL vs. POR,4,9,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-52,235,POR,DAL,POR
+849,2011-12,Regular Season,0021100821,"APR 06, 2012",DAL vs. POR,4,6,21,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-139,83,POR,DAL,POR
+850,2011-12,Regular Season,0021100821,"APR 06, 2012",DAL vs. POR,4,3,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,58,238,POR,DAL,POR
+851,2011-12,Regular Season,0021100821,"APR 06, 2012",DAL vs. POR,5,4,22,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,-26,7,POR,DAL,POR
+852,2011-12,Regular Season,0021100821,"APR 06, 2012",DAL vs. POR,5,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-152,52,POR,DAL,POR
+853,2011-12,Regular Season,0021100821,"APR 06, 2012",DAL vs. POR,5,3,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,-15,206,POR,DAL,POR
+854,2011-12,Regular Season,0021100829,"APR 07, 2012",DAL @ MEM,1,10,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,89,86,MEM,MEM,DAL
+855,2011-12,Regular Season,0021100829,"APR 07, 2012",DAL @ MEM,1,9,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-16,153,MEM,MEM,DAL
+856,2011-12,Regular Season,0021100829,"APR 07, 2012",DAL @ MEM,1,8,14,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,11,108,26,MEM,MEM,DAL
+857,2011-12,Regular Season,0021100829,"APR 07, 2012",DAL @ MEM,1,7,17,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-122,66,MEM,MEM,DAL
+858,2011-12,Regular Season,0021100829,"APR 07, 2012",DAL @ MEM,1,6,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,89,242,MEM,MEM,DAL
+859,2011-12,Regular Season,0021100829,"APR 07, 2012",DAL @ MEM,2,8,23,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,24+ ft.,23,231,14,MEM,MEM,DAL
+860,2011-12,Regular Season,0021100829,"APR 07, 2012",DAL @ MEM,2,7,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,24+ ft.,22,226,1,MEM,MEM,DAL
+861,2011-12,Regular Season,0021100829,"APR 07, 2012",DAL @ MEM,3,8,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-29,250,MEM,MEM,DAL
+862,2011-12,Regular Season,0021100829,"APR 07, 2012",DAL @ MEM,3,7,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-45,249,MEM,MEM,DAL
+863,2011-12,Regular Season,0021100829,"APR 07, 2012",DAL @ MEM,3,6,25,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,14,105,93,MEM,MEM,DAL
+864,2011-12,Regular Season,0021100829,"APR 07, 2012",DAL @ MEM,3,5,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-19,6,MEM,MEM,DAL
+865,2011-12,Regular Season,0021100829,"APR 07, 2012",DAL @ MEM,4,10,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,73,246,MEM,MEM,DAL
+866,2011-12,Regular Season,0021100829,"APR 07, 2012",DAL @ MEM,4,7,48,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,9,64,67,MEM,MEM,DAL
+867,2011-12,Regular Season,0021100829,"APR 07, 2012",DAL @ MEM,4,4,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,12,260,MEM,MEM,DAL
+868,2011-12,Regular Season,0021100829,"APR 07, 2012",DAL @ MEM,4,3,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-158,-5,MEM,MEM,DAL
+869,2011-12,Regular Season,0021100829,"APR 07, 2012",DAL @ MEM,4,1,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,9,-90,41,MEM,MEM,DAL
+870,2011-12,Regular Season,0021100856,"APR 10, 2012",DAL vs. SAC,1,11,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,-142,143,SAC,DAL,SAC
+871,2011-12,Regular Season,0021100856,"APR 10, 2012",DAL vs. SAC,1,6,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-93,230,SAC,DAL,SAC
+872,2011-12,Regular Season,0021100856,"APR 10, 2012",DAL vs. SAC,1,5,59,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,6,-35,52,SAC,DAL,SAC
+873,2011-12,Regular Season,0021100856,"APR 10, 2012",DAL vs. SAC,1,4,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,0,15,SAC,DAL,SAC
+874,2011-12,Regular Season,0021100856,"APR 10, 2012",DAL vs. SAC,1,3,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,5,6,50,SAC,DAL,SAC
+875,2011-12,Regular Season,0021100856,"APR 10, 2012",DAL vs. SAC,2,1,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-92,146,SAC,DAL,SAC
+876,2011-12,Regular Season,0021100856,"APR 10, 2012",DAL vs. SAC,3,11,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,89,190,SAC,DAL,SAC
+877,2011-12,Regular Season,0021100856,"APR 10, 2012",DAL vs. SAC,3,7,58,Made Shot,Fadeaway Bank shot,2PT Field Goal,Mid-Range,8-16 ft.,13,125,37,SAC,DAL,SAC
+878,2011-12,Regular Season,0021100856,"APR 10, 2012",DAL vs. SAC,3,7,20,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-109,25,SAC,DAL,SAC
+879,2011-12,Regular Season,0021100856,"APR 10, 2012",DAL vs. SAC,3,6,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,28,241,SAC,DAL,SAC
+880,2011-12,Regular Season,0021100856,"APR 10, 2012",DAL vs. SAC,3,0,0,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,22,147,176,SAC,DAL,SAC
+881,2011-12,Regular Season,0021100856,"APR 10, 2012",DAL vs. SAC,4,11,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-60,233,SAC,DAL,SAC
+882,2011-12,Regular Season,0021100856,"APR 10, 2012",DAL vs. SAC,4,10,12,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,11,-57,97,SAC,DAL,SAC
+883,2011-12,Regular Season,0021100856,"APR 10, 2012",DAL vs. SAC,4,6,15,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,160,25,SAC,DAL,SAC
+884,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,1,10,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-175,11,GSW,GSW,DAL
+885,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,1,9,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-10,7,GSW,GSW,DAL
+886,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,1,9,16,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,11,-10,113,GSW,GSW,DAL
+887,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,1,7,19,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,13,124,41,GSW,GSW,DAL
+888,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,1,6,14,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,10,105,23,GSW,GSW,DAL
+889,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,1,0,43,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-117,9,GSW,GSW,DAL
+890,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,1,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,27,-97,260,GSW,GSW,DAL
+891,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,2,3,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,157,25,GSW,GSW,DAL
+892,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,2,2,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,6,265,GSW,GSW,DAL
+893,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,2,1,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,15,257,GSW,GSW,DAL
+894,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,2,1,19,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,15,159,15,GSW,GSW,DAL
+895,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,2,0,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,29,201,GSW,GSW,DAL
+896,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,3,9,22,Missed Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,8-16 ft.,15,146,58,GSW,GSW,DAL
+897,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,3,7,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,1,1,GSW,GSW,DAL
+898,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,3,7,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,86,168,GSW,GSW,DAL
+899,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,3,3,6,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,14,18,148,GSW,GSW,DAL
+900,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,4,9,20,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-105,131,GSW,GSW,DAL
+901,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,4,8,40,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,10,15,GSW,GSW,DAL
+902,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,4,7,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,-54,255,GSW,GSW,DAL
+903,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,4,6,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-13,14,GSW,GSW,DAL
+904,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,4,5,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,12,203,GSW,GSW,DAL
+905,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,4,3,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,-133,228,GSW,GSW,DAL
+906,2011-12,Regular Season,0021100873,"APR 12, 2012",DAL @ GSW,4,2,3,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,-108,72,GSW,GSW,DAL
+907,2011-12,Regular Season,0021100885,"APR 13, 2012",DAL @ POR,1,11,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-62,241,POR,POR,DAL
+908,2011-12,Regular Season,0021100885,"APR 13, 2012",DAL @ POR,1,9,37,Made Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,16-24 ft.,18,141,126,POR,POR,DAL
+909,2011-12,Regular Season,0021100885,"APR 13, 2012",DAL @ POR,1,8,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,45,142,POR,POR,DAL
+910,2011-12,Regular Season,0021100885,"APR 13, 2012",DAL @ POR,1,0,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,24+ ft.,26,-93,247,POR,POR,DAL
+911,2011-12,Regular Season,0021100885,"APR 13, 2012",DAL @ POR,2,11,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,21,-103,186,POR,POR,DAL
+912,2011-12,Regular Season,0021100885,"APR 13, 2012",DAL @ POR,2,10,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-73,156,POR,POR,DAL
+913,2011-12,Regular Season,0021100885,"APR 13, 2012",DAL @ POR,2,7,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,0,250,POR,POR,DAL
+914,2011-12,Regular Season,0021100885,"APR 13, 2012",DAL @ POR,2,1,21,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-117,26,POR,POR,DAL
+915,2011-12,Regular Season,0021100885,"APR 13, 2012",DAL @ POR,2,0,6,Missed Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,9,-73,63,POR,POR,DAL
+916,2011-12,Regular Season,0021100885,"APR 13, 2012",DAL @ POR,3,8,36,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-141,83,POR,POR,DAL
+917,2011-12,Regular Season,0021100885,"APR 13, 2012",DAL @ POR,4,8,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,21,246,POR,POR,DAL
+918,2011-12,Regular Season,0021100885,"APR 13, 2012",DAL @ POR,4,7,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-169,176,POR,POR,DAL
+919,2011-12,Regular Season,0021100885,"APR 13, 2012",DAL @ POR,4,4,35,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,122,93,POR,POR,DAL
+920,2011-12,Regular Season,0021100885,"APR 13, 2012",DAL @ POR,4,0,33,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,-125,0,POR,POR,DAL
+921,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,1,10,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-127,107,LAL,LAL,DAL
+922,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,1,9,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,2,258,LAL,LAL,DAL
+923,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,1,6,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-7,249,LAL,LAL,DAL
+924,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,1,5,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,176,30,LAL,LAL,DAL
+925,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,2,8,38,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,5,-15,55,LAL,LAL,DAL
+926,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,2,6,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,31,140,LAL,LAL,DAL
+927,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,2,3,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,72,187,LAL,LAL,DAL
+928,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,2,2,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,-7,26,LAL,LAL,DAL
+929,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,2,1,31,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,162,69,LAL,LAL,DAL
+930,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,2,1,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-131,56,LAL,LAL,DAL
+931,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,3,11,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,13,-75,118,LAL,LAL,DAL
+932,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,3,9,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,116,156,LAL,LAL,DAL
+933,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,3,8,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,99,250,LAL,LAL,DAL
+934,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,3,7,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,11,-34,113,LAL,LAL,DAL
+935,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,3,6,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,135,-13,LAL,LAL,DAL
+936,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,3,6,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,-7,205,LAL,LAL,DAL
+937,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,3,5,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,102,110,LAL,LAL,DAL
+938,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,4,10,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-169,44,LAL,LAL,DAL
+939,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,4,10,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,77,257,LAL,LAL,DAL
+940,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,4,8,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,-71,254,LAL,LAL,DAL
+941,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,4,7,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,14,69,123,LAL,LAL,DAL
+942,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,4,5,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-37,186,LAL,LAL,DAL
+943,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,4,4,25,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,146,69,LAL,LAL,DAL
+944,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,4,3,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,-116,165,LAL,LAL,DAL
+945,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,4,1,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-177,85,LAL,LAL,DAL
+946,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,4,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,27,-60,266,LAL,LAL,DAL
+947,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,5,3,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,26,-32,260,LAL,LAL,DAL
+948,2011-12,Regular Season,0021100894,"APR 15, 2012",DAL @ LAL,5,1,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,-136,217,LAL,LAL,DAL
+949,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,1,10,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-158,19,UTA,UTA,DAL
+950,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,1,8,56,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,8,70,52,UTA,UTA,DAL
+951,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,1,6,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,26,197,UTA,UTA,DAL
+952,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,2,5,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,-196,25,UTA,UTA,DAL
+953,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,2,5,15,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,10,0,UTA,UTA,DAL
+954,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,2,4,39,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,-26,11,UTA,UTA,DAL
+955,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,2,3,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,163,83,UTA,UTA,DAL
+956,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,2,1,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,108,224,UTA,UTA,DAL
+957,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,2,1,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,8,32,83,UTA,UTA,DAL
+958,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,3,7,50,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,100,110,UTA,UTA,DAL
+959,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,3,7,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,23,102,217,UTA,UTA,DAL
+960,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,3,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,0,148,UTA,UTA,DAL
+961,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,4,10,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,84,146,UTA,UTA,DAL
+962,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,4,10,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,7,142,UTA,UTA,DAL
+963,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,4,6,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,3,2,30,UTA,UTA,DAL
+964,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,4,5,22,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,9,-92,4,UTA,UTA,DAL
+965,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,4,4,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-82,230,UTA,UTA,DAL
+966,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,4,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,32,201,250,UTA,UTA,DAL
+967,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,5,4,24,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,3,-30,7,UTA,UTA,DAL
+968,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,5,2,59,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-82,112,UTA,UTA,DAL
+969,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,5,2,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,45,189,UTA,UTA,DAL
+970,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,5,1,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,14,-56,134,UTA,UTA,DAL
+971,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,5,0,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,0,244,UTA,UTA,DAL
+972,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,7,2,55,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-166,0,UTA,UTA,DAL
+973,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,7,1,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,23,-131,200,UTA,UTA,DAL
+974,2011-12,Regular Season,0021100909,"APR 16, 2012",DAL @ UTA,7,0,5,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,24+ ft.,22,223,-3,UTA,UTA,DAL
+975,2011-12,Regular Season,0021100926,"APR 18, 2012",DAL vs. HOU,1,11,45,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,12,119,44,HOU,DAL,HOU
+976,2011-12,Regular Season,0021100926,"APR 18, 2012",DAL vs. HOU,1,9,41,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,15,3,HOU,DAL,HOU
+977,2011-12,Regular Season,0021100926,"APR 18, 2012",DAL vs. HOU,1,7,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,67,176,HOU,DAL,HOU
+978,2011-12,Regular Season,0021100926,"APR 18, 2012",DAL vs. HOU,2,9,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-160,67,HOU,DAL,HOU
+979,2011-12,Regular Season,0021100926,"APR 18, 2012",DAL vs. HOU,2,6,9,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,16-24 ft.,19,7,192,HOU,DAL,HOU
+980,2011-12,Regular Season,0021100926,"APR 18, 2012",DAL vs. HOU,2,1,34,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,12,108,64,HOU,DAL,HOU
+981,2011-12,Regular Season,0021100926,"APR 18, 2012",DAL vs. HOU,2,0,3,Missed Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,3,-34,15,HOU,DAL,HOU
+982,2011-12,Regular Season,0021100926,"APR 18, 2012",DAL vs. HOU,3,10,23,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-117,11,HOU,DAL,HOU
+983,2011-12,Regular Season,0021100926,"APR 18, 2012",DAL vs. HOU,3,9,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-5,179,HOU,DAL,HOU
+984,2011-12,Regular Season,0021100926,"APR 18, 2012",DAL vs. HOU,3,7,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,20,176,HOU,DAL,HOU
+985,2011-12,Regular Season,0021100926,"APR 18, 2012",DAL vs. HOU,3,5,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-73,238,HOU,DAL,HOU
+986,2011-12,Regular Season,0021100926,"APR 18, 2012",DAL vs. HOU,3,4,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,17,0,HOU,DAL,HOU
+987,2011-12,Regular Season,0021100926,"APR 18, 2012",DAL vs. HOU,4,9,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-177,165,HOU,DAL,HOU
+988,2011-12,Regular Season,0021100926,"APR 18, 2012",DAL vs. HOU,4,8,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,36,238,HOU,DAL,HOU
+989,2011-12,Regular Season,0021100926,"APR 18, 2012",DAL vs. HOU,4,4,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-147,192,HOU,DAL,HOU
+990,2011-12,Regular Season,0021100926,"APR 18, 2012",DAL vs. HOU,4,4,13,Missed Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,6,15,64,HOU,DAL,HOU
+991,2011-12,Regular Season,0021100926,"APR 18, 2012",DAL vs. HOU,4,4,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,13,6,HOU,DAL,HOU
+992,2011-12,Regular Season,0021100926,"APR 18, 2012",DAL vs. HOU,4,0,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,9,1,HOU,DAL,HOU
+993,2011-12,Regular Season,0021100940,"APR 20, 2012",DAL vs. GSW,1,8,44,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,8-16 ft.,13,135,30,GSW,DAL,GSW
+994,2011-12,Regular Season,0021100940,"APR 20, 2012",DAL vs. GSW,1,7,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-16,1,GSW,DAL,GSW
+995,2011-12,Regular Season,0021100940,"APR 20, 2012",DAL vs. GSW,1,3,34,Missed Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,5,54,22,GSW,DAL,GSW
+996,2011-12,Regular Season,0021100940,"APR 20, 2012",DAL vs. GSW,1,1,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,125,14,GSW,DAL,GSW
+997,2011-12,Regular Season,0021100940,"APR 20, 2012",DAL vs. GSW,2,7,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,141,134,GSW,DAL,GSW
+998,2011-12,Regular Season,0021100940,"APR 20, 2012",DAL vs. GSW,2,3,43,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,4,-7,41,GSW,DAL,GSW
+999,2011-12,Regular Season,0021100940,"APR 20, 2012",DAL vs. GSW,2,2,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,17,12,GSW,DAL,GSW
+1000,2011-12,Regular Season,0021100940,"APR 20, 2012",DAL vs. GSW,3,11,21,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,13,129,47,GSW,DAL,GSW
+1001,2011-12,Regular Season,0021100940,"APR 20, 2012",DAL vs. GSW,3,10,40,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,13,138,6,GSW,DAL,GSW
+1002,2011-12,Regular Season,0021100940,"APR 20, 2012",DAL vs. GSW,3,9,56,Missed Shot,Driving Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,9,-90,12,GSW,DAL,GSW
+1003,2011-12,Regular Season,0021100940,"APR 20, 2012",DAL vs. GSW,3,6,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-106,224,GSW,DAL,GSW
+1004,2011-12,Regular Season,0021100940,"APR 20, 2012",DAL vs. GSW,4,6,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,159,126,GSW,DAL,GSW
+1005,2011-12,Regular Season,0021100940,"APR 20, 2012",DAL vs. GSW,4,4,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,135,107,GSW,DAL,GSW
+1006,2011-12,Regular Season,0021100940,"APR 20, 2012",DAL vs. GSW,4,3,31,Missed Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,7,-75,17,GSW,DAL,GSW
+1007,2011-12,Regular Season,0021100946,"APR 21, 2012",DAL @ CHI,1,11,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,22,-130,183,CHI,CHI,DAL
+1008,2011-12,Regular Season,0021100946,"APR 21, 2012",DAL @ CHI,1,10,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,21,-109,186,CHI,CHI,DAL
+1009,2011-12,Regular Season,0021100946,"APR 21, 2012",DAL @ CHI,1,8,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-157,0,CHI,CHI,DAL
+1010,2011-12,Regular Season,0021100946,"APR 21, 2012",DAL @ CHI,1,8,4,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,-21,3,CHI,CHI,DAL
+1011,2011-12,Regular Season,0021100946,"APR 21, 2012",DAL @ CHI,1,5,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,165,127,CHI,CHI,DAL
+1012,2011-12,Regular Season,0021100946,"APR 21, 2012",DAL @ CHI,2,9,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-8,242,CHI,CHI,DAL
+1013,2011-12,Regular Season,0021100946,"APR 21, 2012",DAL @ CHI,2,8,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,89,242,CHI,CHI,DAL
+1014,2011-12,Regular Season,0021100946,"APR 21, 2012",DAL @ CHI,2,7,18,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,-142,47,CHI,CHI,DAL
+1015,2011-12,Regular Season,0021100946,"APR 21, 2012",DAL @ CHI,2,6,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,24,4,CHI,CHI,DAL
+1016,2011-12,Regular Season,0021100946,"APR 21, 2012",DAL @ CHI,2,4,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,-5,6,CHI,CHI,DAL
+1017,2011-12,Regular Season,0021100946,"APR 21, 2012",DAL @ CHI,3,10,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,17,-35,170,CHI,CHI,DAL
+1018,2011-12,Regular Season,0021100946,"APR 21, 2012",DAL @ CHI,3,9,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,6,249,CHI,CHI,DAL
+1019,2011-12,Regular Season,0021100946,"APR 21, 2012",DAL @ CHI,3,9,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,122,167,CHI,CHI,DAL
+1020,2011-12,Regular Season,0021100946,"APR 21, 2012",DAL @ CHI,3,4,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-13,159,CHI,CHI,DAL
+1021,2011-12,Regular Season,0021100946,"APR 21, 2012",DAL @ CHI,4,11,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,149,195,CHI,CHI,DAL
+1022,2011-12,Regular Season,0021100983,"APR 26, 2012",DAL @ ATL,1,11,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-160,19,ATL,ATL,DAL
+1023,2011-12,Regular Season,0021100983,"APR 26, 2012",DAL @ ATL,1,10,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,69,172,ATL,ATL,DAL
+1024,2011-12,Regular Season,0021100983,"APR 26, 2012",DAL @ ATL,1,8,48,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,16-24 ft.,19,187,37,ATL,ATL,DAL
+1025,2011-12,Regular Season,0021100983,"APR 26, 2012",DAL @ ATL,1,8,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,127,154,ATL,ATL,DAL
+1026,2011-12,Regular Season,0021100983,"APR 26, 2012",DAL @ ATL,1,7,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,-52,181,ATL,ATL,DAL
+1027,2011-12,Regular Season,0021100983,"APR 26, 2012",DAL @ ATL,2,10,31,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,10,1,105,ATL,ATL,DAL
+1028,2011-12,Regular Season,0021100983,"APR 26, 2012",DAL @ ATL,2,8,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,20,19,ATL,ATL,DAL
+1029,2011-12,Regular Season,0021100983,"APR 26, 2012",DAL @ ATL,2,1,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,6,-54,28,ATL,ATL,DAL
+1030,2011-12,Regular Season,0021100983,"APR 26, 2012",DAL @ ATL,2,0,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,3,0,30,ATL,ATL,DAL
+1031,2011-12,Regular Season,0021100983,"APR 26, 2012",DAL @ ATL,3,11,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,39,247,ATL,ATL,DAL
+1032,2011-12,Regular Season,0021100983,"APR 26, 2012",DAL @ ATL,3,2,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,-2,205,ATL,ATL,DAL
+1033,2011-12,Regular Season,0021100983,"APR 26, 2012",DAL @ ATL,3,2,7,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-130,86,ATL,ATL,DAL
+1034,2011-12,Playoffs,0041100151,"APR 28, 2012",DAL @ OKC,1,10,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,21,9,OKC,OKC,DAL
+1035,2011-12,Playoffs,0041100151,"APR 28, 2012",DAL @ OKC,1,9,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,20,-139,154,OKC,OKC,DAL
+1036,2011-12,Playoffs,0041100151,"APR 28, 2012",DAL @ OKC,1,8,30,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,12,-16,129,OKC,OKC,DAL
+1037,2011-12,Playoffs,0041100151,"APR 28, 2012",DAL @ OKC,1,7,59,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,7,0,OKC,OKC,DAL
+1038,2011-12,Playoffs,0041100151,"APR 28, 2012",DAL @ OKC,1,7,56,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,151,1,OKC,OKC,DAL
+1039,2011-12,Playoffs,0041100151,"APR 28, 2012",DAL @ OKC,1,5,15,Missed Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,8-16 ft.,9,95,28,OKC,OKC,DAL
+1040,2011-12,Playoffs,0041100151,"APR 28, 2012",DAL @ OKC,2,11,2,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-136,-5,OKC,OKC,DAL
+1041,2011-12,Playoffs,0041100151,"APR 28, 2012",DAL @ OKC,2,8,49,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,10,106,26,OKC,OKC,DAL
+1042,2011-12,Playoffs,0041100151,"APR 28, 2012",DAL @ OKC,2,8,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,9,84,53,OKC,OKC,DAL
+1043,2011-12,Playoffs,0041100151,"APR 28, 2012",DAL @ OKC,2,1,47,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-144,64,OKC,OKC,DAL
+1044,2011-12,Playoffs,0041100151,"APR 28, 2012",DAL @ OKC,2,0,32,Made Shot,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,9,-79,50,OKC,OKC,DAL
+1045,2011-12,Playoffs,0041100151,"APR 28, 2012",DAL @ OKC,3,9,35,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,14,138,52,OKC,OKC,DAL
+1046,2011-12,Playoffs,0041100151,"APR 28, 2012",DAL @ OKC,3,5,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-120,219,OKC,OKC,DAL
+1047,2011-12,Playoffs,0041100151,"APR 28, 2012",DAL @ OKC,4,4,32,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,4,48,-2,OKC,OKC,DAL
+1048,2011-12,Playoffs,0041100151,"APR 28, 2012",DAL @ OKC,4,4,22,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,9,-78,58,OKC,OKC,DAL
+1049,2011-12,Playoffs,0041100151,"APR 28, 2012",DAL @ OKC,4,3,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,6,0,OKC,OKC,DAL
+1050,2011-12,Playoffs,0041100151,"APR 28, 2012",DAL @ OKC,4,2,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,2,140,OKC,OKC,DAL
+1051,2011-12,Playoffs,0041100151,"APR 28, 2012",DAL @ OKC,4,1,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,23,91,220,OKC,OKC,DAL
+1052,2011-12,Playoffs,0041100152,"APR 30, 2012",DAL @ OKC,1,10,38,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,4,37,19,OKC,OKC,DAL
+1053,2011-12,Playoffs,0041100152,"APR 30, 2012",DAL @ OKC,1,9,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,20,0,OKC,OKC,DAL
+1054,2011-12,Playoffs,0041100152,"APR 30, 2012",DAL @ OKC,1,9,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,129,1,OKC,OKC,DAL
+1055,2011-12,Playoffs,0041100152,"APR 30, 2012",DAL @ OKC,1,6,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,14,133,58,OKC,OKC,DAL
+1056,2011-12,Playoffs,0041100152,"APR 30, 2012",DAL @ OKC,1,5,27,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,14,146,7,OKC,OKC,DAL
+1057,2011-12,Playoffs,0041100152,"APR 30, 2012",DAL @ OKC,1,1,51,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,10,89,63,OKC,OKC,DAL
+1058,2011-12,Playoffs,0041100152,"APR 30, 2012",DAL @ OKC,2,11,16,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,8,-59,61,OKC,OKC,DAL
+1059,2011-12,Playoffs,0041100152,"APR 30, 2012",DAL @ OKC,2,5,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,5,-40,30,OKC,OKC,DAL
+1060,2011-12,Playoffs,0041100152,"APR 30, 2012",DAL @ OKC,2,5,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,162,3,OKC,OKC,DAL
+1061,2011-12,Playoffs,0041100152,"APR 30, 2012",DAL @ OKC,2,3,58,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,118,31,OKC,OKC,DAL
+1062,2011-12,Playoffs,0041100152,"APR 30, 2012",DAL @ OKC,2,3,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,7,4,OKC,OKC,DAL
+1063,2011-12,Playoffs,0041100152,"APR 30, 2012",DAL @ OKC,2,2,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,17,1,OKC,OKC,DAL
+1064,2011-12,Playoffs,0041100152,"APR 30, 2012",DAL @ OKC,3,7,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,10,15,OKC,OKC,DAL
+1065,2011-12,Playoffs,0041100152,"APR 30, 2012",DAL @ OKC,3,6,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,28,242,OKC,OKC,DAL
+1066,2011-12,Playoffs,0041100152,"APR 30, 2012",DAL @ OKC,4,6,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,-8,0,OKC,OKC,DAL
+1067,2011-12,Playoffs,0041100152,"APR 30, 2012",DAL @ OKC,4,5,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,7,9,OKC,OKC,DAL
+1068,2011-12,Playoffs,0041100152,"APR 30, 2012",DAL @ OKC,4,5,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,24,1,OKC,OKC,DAL
+1069,2011-12,Playoffs,0041100152,"APR 30, 2012",DAL @ OKC,4,1,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-209,134,OKC,OKC,DAL
+1070,2011-12,Playoffs,0041100152,"APR 30, 2012",DAL @ OKC,4,0,27,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,12,-122,-6,OKC,OKC,DAL
+1071,2011-12,Playoffs,0041100153,"MAY 03, 2012",DAL vs. OKC,1,10,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,11,106,37,OKC,DAL,OKC
+1072,2011-12,Playoffs,0041100153,"MAY 03, 2012",DAL vs. OKC,1,9,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,20,1,OKC,DAL,OKC
+1073,2011-12,Playoffs,0041100153,"MAY 03, 2012",DAL vs. OKC,1,9,15,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,116,31,OKC,DAL,OKC
+1074,2011-12,Playoffs,0041100153,"MAY 03, 2012",DAL vs. OKC,1,7,56,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,8-16 ft.,12,125,30,OKC,DAL,OKC
+1075,2011-12,Playoffs,0041100153,"MAY 03, 2012",DAL vs. OKC,2,11,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,24,-87,231,OKC,DAL,OKC
+1076,2011-12,Playoffs,0041100153,"MAY 03, 2012",DAL vs. OKC,2,6,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,-152,71,OKC,DAL,OKC
+1077,2011-12,Playoffs,0041100153,"MAY 03, 2012",DAL vs. OKC,2,4,31,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,7,20,71,OKC,DAL,OKC
+1078,2011-12,Playoffs,0041100153,"MAY 03, 2012",DAL vs. OKC,2,2,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,16,2,160,OKC,DAL,OKC
+1079,2011-12,Playoffs,0041100153,"MAY 03, 2012",DAL vs. OKC,3,10,5,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,15,-24,157,OKC,DAL,OKC
+1080,2011-12,Playoffs,0041100153,"MAY 03, 2012",DAL vs. OKC,3,5,29,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,5,-8,58,OKC,DAL,OKC
+1081,2011-12,Playoffs,0041100153,"MAY 03, 2012",DAL vs. OKC,3,0,47,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,13,-133,19,OKC,DAL,OKC
+1082,2011-12,Playoffs,0041100153,"MAY 03, 2012",DAL vs. OKC,4,10,58,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,8-16 ft.,15,149,36,OKC,DAL,OKC
+1083,2011-12,Playoffs,0041100153,"MAY 03, 2012",DAL vs. OKC,4,9,1,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,1,1,OKC,DAL,OKC
+1084,2011-12,Playoffs,0041100153,"MAY 03, 2012",DAL vs. OKC,4,6,46,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,12,110,48,OKC,DAL,OKC
+1085,2011-12,Playoffs,0041100153,"MAY 03, 2012",DAL vs. OKC,4,5,49,Missed Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,4,47,11,OKC,DAL,OKC
+1086,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,1,11,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,-24,9,OKC,DAL,OKC
+1087,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,1,10,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-13,4,OKC,DAL,OKC
+1088,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,1,7,18,Missed Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,4,15,42,OKC,DAL,OKC
+1089,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,2,11,9,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,12,99,69,OKC,DAL,OKC
+1090,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,2,9,54,Missed Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,6,37,50,OKC,DAL,OKC
+1091,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,2,8,35,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,10,-101,42,OKC,DAL,OKC
+1092,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,2,4,0,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,26,4,OKC,DAL,OKC
+1093,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,2,3,30,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-81,80,OKC,DAL,OKC
+1094,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,2,2,13,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,11,-109,36,OKC,DAL,OKC
+1095,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,2,0,47,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,8-16 ft.,9,-97,23,OKC,DAL,OKC
+1096,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,2,0,10,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,12,-120,28,OKC,DAL,OKC
+1097,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,3,11,3,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,0,-7,4,OKC,DAL,OKC
+1098,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,3,9,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,18,136,129,OKC,DAL,OKC
+1099,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,3,9,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,24+ ft.,25,171,189,OKC,DAL,OKC
+1100,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,3,7,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,21,-117,179,OKC,DAL,OKC
+1101,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,3,5,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,2,-21,9,OKC,DAL,OKC
+1102,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,3,5,42,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,8-16 ft.,10,-103,19,OKC,DAL,OKC
+1103,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,4,10,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,6,13,66,OKC,DAL,OKC
+1104,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,4,7,42,Missed Shot,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,8,-73,44,OKC,DAL,OKC
+1105,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,4,6,57,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),8-16 ft.,13,9,135,OKC,DAL,OKC
+1106,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,4,5,47,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,5,43,41,OKC,DAL,OKC
+1107,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,4,3,15,Missed Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Less Than 8 ft.,7,15,71,OKC,DAL,OKC
+1108,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,4,1,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-19,3,OKC,DAL,OKC
+1109,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,4,1,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Less Than 8 ft.,1,-13,1,OKC,DAL,OKC
+1110,2011-12,Playoffs,0041100154,"MAY 05, 2012",DAL vs. OKC,4,0,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,16-24 ft.,19,64,181,OKC,DAL,OKC
