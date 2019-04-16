@@ -13,7 +13,7 @@ From the project's root directory, run `python scraper.py <player_id> <start_yea
 - **playerid**: Each NBA player has a unique id that identifies them within the NBA stats api. The easiest way to find a given ID is by searching for that player on the [NBA Stats page](https://www.nba.com/stats), then pulling the number from the end of the resulting URL.
 - **start_year:** The first year you wish to retrieve shots for. Format is YYYY (Ex: 1999)
 - **end_year:** The last year you wish to retrieve stats for. Format is YYYY (Ex: 2010). NBA seasons span two years. The `end_year` is the second year in an NBA season.
-- **season_type:** `Regular_Season`, `Playoffs`, or `All`, if you want both regular season and playoff shots over a given range.
+- **season_type:** `Regular_Season`, `Playoffs`, or `All`, if you want both regular season and playoff shots over a given range. If not season type is specified, only regular season shots will be retrieved. 
 
 Example, to get Dirk Nowitzki's shots from 2000 to 2010 for both the regular season and playoffs, one would run:
 `python scraper.py 1717 2000 2010 All`
