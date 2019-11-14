@@ -202,6 +202,8 @@ else:
     output_file = "data-output/player-{0}_years-{1}-{2}_shots.csv".format(player, start_year, end_year)
 
     # headers info for requesting from the nba api
+    # note: nba stats api recently changed and now requires a more robust headers package
+    # that has not been updated for this file yet
     BROWSER_HEADERS = {
         'user-agent': ('Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36'), # noqa: E501
         'Dnt': ('1'),
